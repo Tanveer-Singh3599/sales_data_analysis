@@ -1,0 +1,501 @@
+Product_ID,Category,SubCategory,Cost_Price,Selling_Price,Supplier,High_Margin
+P0001,Sports,Outdoor,132.55,290.48,Supplier_A,0
+P0002,Home Decor,Kitchen,94.99,165.56,Supplier_A,0
+P0003,Sports,Team Sports,59.26,145.66,Supplier_D,0
+P0004,Electrnics,Skincare,50.35,125.33,Supplier_A,0
+P0005,Sports,Gym,286.14,487.79,Supplier_A,1
+P0006,Clothing,Kids,229.94,267.95,Supplier_D,0
+P0007,Beauty,Skincare,403.33,556.41,Supplier_C,0
+P0008,Sports,Outdoor,70.9,138.3,Supplier_A,0
+P0009,Electronics,Accessories,55.97,135.39,Supplier_B,0
+P0010,Home Decor,Lighting,187.08,231.36,Supplier_D,0
+P0011,Sports,Team Sports,357.47,698.49,Supplier_D,1
+P0012,Clothing,Women,225.98,306.23,Supplier_D,0
+P0013,Home Decor,Lighting,284.03,529.83,Supplier_B,1
+P0014,Books,Educational,429.03,742.07,Supplier_B,1
+P0015,Beauty,Skincare,377.27,587.47,Supplier_B,1
+P0016,Sports,Outdoor,482.53,1101.3,Supplier_A,1
+P0017,Home Decor,Kitchen,422.93,676.46,Supplier_D,1
+P0018,Sports,Outdoor,113.42,252.13,Supplier_A,0
+P0019,Electronics,Accessories,240.53,397.56,Supplier_D,0
+P0020,Clothing,Kids,368.09,, ,0
+P0021,Clothing,Men,466.84,939.04,Supplier_D,1
+P0022,Electronics,Laptops,92.93,150.47,Supplier_B,0
+P0023,Books,Educational,316.08,469.26,Supplier_C,0
+P0024,Electronics,Accessories,103.82,,Supplier_A,0
+P0025,Books,Non-Fiction,156.19,227.81,Supplier_C,0
+P0026,Electronics,Accessories,242.39,275.26,Supplier_A,0
+P0027,Clothing,Kids,453.09,799.95,Supplier_A,1
+P0028,Sports,Gym,112.7,219.33,Supplier_C,0
+P0029,Clothing,Men,152.96,184.74,Supplier_C,0
+P0030,Clothing,Women,446.21,880.86,Supplier_B,1
+P0031,Electronics,Mobiles,442.16,983.86,Supplier_D,1
+P0032,Sports,Gym,447.48,695.42,Supplier_C,1
+P0033,Sports,Outdoor,193.1,242.16,Supplier_A,0
+P0034,Clothing,Women,50.23,80.05,Supplier_C,0
+P0035,Beauty,Haircare,237.83,335.57,Supplier_C,0
+P0036,Home Decor,Kitchen,125.73,176.81,Supplier_D,0
+P0037,Electronics,Mobiles,79.2,115.28,Supplier_D,0
+P0038,Beauty,Haircare,273.76,416.45, ,0
+P0039,Electronics,Accessories,324.3,584.96,Supplier_B,1
+P0040,Books,Fiction,335.46,688.69,Supplier_A,1
+P0041,Sports,Gym,493.54,710.15,Supplier_D,1
+P0042,Clothing,Kids,158.97,353.62,Supplier_A,0
+P0043,Sports,Gym,335.09,619.94,Supplier_D,1
+P0044,Electronics,Mobiles,194.35,264.54,Supplier_A,0
+P0045,Clothing,Kids,149.11,312.47,Supplier_C,0
+P0046,Clothing,Kids,128.46,265.58,Supplier_D,0
+P0047,Home Decor,Furniture,354.06,753.9,Supplier_B,1
+P0048,Beauty,Skincare,166.07,336.13,Supplier_B,0
+P0049,Electronics,Mobiles,158.83,195.42,Supplier_D,0
+P0050,Books,Fiction,447.19,610.05,Supplier_A,0
+P0051,Clothing,Kids,376.68,887.44,Supplier_D,1
+P0052,Beauty,Makeup,338.91,412.73,Supplier_D,0
+P0053,Sports,Gym,351.04,671.53,Supplier_D,1
+P0054,Beauty,Makeup,348.58,385.9,Supplier_D,0
+P0055,Beauty,Skincare,268.53,463.96,Supplier_A,0
+P0056,Electronics,Mobiles,58.13,104.14,Supplier_D,0
+P0057,Sports,Team Sports,374.42,573.35, ,0
+P0058,Sports,Team Sports,215.47,317.02,Supplier_B,0
+P0059,Beauty,Skincare,490.5,873.8,Supplier_D,1
+P0060,Clothing,Kids,407.67,735.3,Supplier_D,1
+P0061,Electronics,Mobiles,153.58,276.28,Supplier_D,0
+P0062,Clothing,Men,69.62,173.52,Supplier_B,0
+P0063,Books,Non-Fiction,461.69,747.12,Supplier_A,1
+P0064,Books,Fiction,242.68,595.38,Supplier_C,1
+P0065,Sports,Outdoor,83.91,128.21,Supplier_D,0
+P0066,Electronics,Accessories,126.27,237.33,Supplier_C,0
+P0067,Beauty,Skincare,468.51,561.55,Supplier_B,0
+P0068,Beauty,Haircare,113.04,206.37,Supplier_B,0
+P0069,Home Decor,Furniture,431.9,557.7,Supplier_B,0
+P0070,Books,Non-Fiction,414.21,,Supplier_A,0
+P0071,Electrnics,Non-Fiction,52.33,103.57,Supplier_D,0
+P0072,Electronics,Laptops,408.11,957.42,Supplier_C,1
+P0073,Sports,Gym,92.29,176.24,Supplier_B,0
+P0074,Clothing,Men,119.77,296.38,Supplier_B,0
+P0075,Home Decor,Lighting,63.73,73.43,Supplier_B,0
+P0076,Beauty,Haircare,107.18,196.26,Supplier_A,0
+P0077,Sports,Outdoor,255.77,582.86,Supplier_D,1
+P0078,Sports,Gym,293.29,584.34,Supplier_D,1
+P0079,Books,Non-Fiction,282.34,438.22,Supplier_A,0
+P0080,Clothing,Women,85.31,96.86,Supplier_A,0
+P0081,Beauty,Haircare,242.74,500.99,Supplier_A,1
+P0082,Home Decor,Lighting,120.4,174.62,Supplier_B,0
+P0083,Beauty,Makeup,347.09,517.82,Supplier_D,0
+P0084,Books,Educational,345.7,591.13,Supplier_A,1
+P0085,Clothing,Women,210.19,454.21,Supplier_A,1
+P0086,Books,Non-Fiction,91.31,112.48,Supplier_B,0
+P0087,Beauty,Skincare,366.65,646.71,Supplier_B,1
+P0088,Home Decor,Furniture,263.06,353.16,Supplier_B,0
+P0089,Books,Educational,71.63,173.97,Supplier_D,0
+P0090,Home Decor,Kitchen,56.89,136.92,Supplier_D,0
+P0091,Electronics,Mobiles,357.78,702.04,Supplier_D,1
+P0092,Home Decor,Furniture,440.24,876.5,Supplier_D,1
+P0093,Sports,Gym,308.02,394.23,Supplier_A,0
+P0094,Clothing,Kids,473.66,777.06,Supplier_A,1
+P0095,Home Decor,Kitchen,138.11,165.33,Supplier_C,0
+P0096,Beauty,Skincare,67.53,132.74,Supplier_C,0
+P0097,Electronics,Laptops,193.54,441.82,Supplier_B,1
+P0098,Beauty,Skincare,167.31,300.23,Supplier_B,0
+P0099,Books,Non-Fiction,333.02,775.43,Supplier_D,1
+P0100,Electronics,Mobiles,485.41,906.34,Supplier_A,1
+P0101,Electronics,Accessories,495.73,,Supplier_B,0
+P0102,Electronics,Accessories,311.24,720.21,Supplier_D,1
+P0103,Books,Fiction,355.93,760.22,Supplier_C,1
+P0104,Electronics,Laptops,456.15,824.42,Supplier_D,1
+P0105,Electronics,Laptops,183.94,228.08,Supplier_D,0
+P0106,Sports,Outdoor,457.42,561.62,Supplier_C,0
+P0107,Sports,Gym,354.55,629.51,Supplier_B,1
+P0108,Books,Fiction,181.94,283.86,Supplier_C,0
+P0109,Books,Fiction,406.21,895.88,Supplier_A,1
+P0110,Books,Non-Fiction,488.41,1218.25,Supplier_B,1
+P0111,Books,Educational,449.47,,Supplier_B,0
+P0112,Sports,Outdoor,392.68,771.81,Supplier_A,1
+P0113,Beauty,Haircare,241.74,341.24,Supplier_A,0
+P0114,Home Decor,Kitchen,367.81,446.48,Supplier_A,0
+P0115,Beauty,Haircare,311.59,719.27,Supplier_B,1
+P0116,Sports,Outdoor,476.26,1181.32,Supplier_D,1
+P0117,Sports,Gym,368.68,654.16,Supplier_D,1
+P0118,Beauty,Haircare,240.9,570.67,Supplier_C,1
+P0119,Electrnics,Haircare,164.16,273.7,Supplier_B,0
+P0120,Home Decor,Furniture,420.26,900.14,Supplier_C,1
+P0121,Books,Non-Fiction,230.1,407.0,Supplier_A,0
+P0122,Electronics,Laptops,246.35,547.63,Supplier_A,1
+P0123,Books,Fiction,195.21,226.59,Supplier_A,0
+P0124,Clothing,Men,163.85,339.75,Supplier_A,0
+P0125,Home Decor,Kitchen,333.23,691.13,Supplier_C,1
+P0126,Electronics,Mobiles,363.62,595.56,Supplier_C,1
+P0127,Electronics,Accessories,176.43,428.83,Supplier_D,1
+P0128,Beauty,Makeup,174.82,238.35,Supplier_B,0
+P0129,Home Decor,Lighting,169.67,272.24,Supplier_D,0
+P0130,Clothing,Women,64.54,96.28,Supplier_A,0
+P0131,Sports,Outdoor,358.13,475.47,Supplier_B,0
+P0132,Clothing,Men,473.24,,Supplier_A,0
+P0133,Electronics,Laptops,87.24,203.03,Supplier_C,0
+P0134,Books,Fiction,61.87,100.66,Supplier_A,0
+P0135,Home Decor,Kitchen,117.69,227.35,Supplier_C,0
+P0136,Electronics,Laptops,423.12,802.55,Supplier_A,1
+P0137,Home Decor,Furniture,236.67,350.93,Supplier_D,0
+P0138,Beauty,Makeup,290.46,624.44,Supplier_C,1
+P0139,Books,Educational,396.04,959.49,Supplier_B,1
+P0140,Clothing,Men,158.49,219.83,Supplier_A,0
+P0141,Clothing,Men,322.78,458.38,Supplier_A,0
+P0142,Home Decor,Kitchen,101.1,206.27,Supplier_B,0
+P0143,Beauty,Skincare,424.12,649.28,Supplier_A,1
+P0144,Beauty,Makeup,89.78,198.29,Supplier_A,0
+P0145,Books,Fiction,337.71,752.11,Supplier_C,1
+P0146,Beauty,Skincare,207.76,400.13,Supplier_B,0
+P0147,Clothing,Kids,456.87,725.31,Supplier_B,1
+P0148,Electronics,Accessories,228.44,450.25,Supplier_C,1
+P0149,Electronics,Mobiles,408.41,711.9,Supplier_A,1
+P0150,Home Decor,Furniture,166.21,289.67,Supplier_B,0
+P0151,Beauty,Makeup,206.34,287.38,Supplier_C,0
+P0152,Clothing,Kids,291.77,508.89,Supplier_D,1
+P0153,Clothing,Women,363.95,492.1,Supplier_D,0
+P0154,Electronics,Accessories,443.44,,Supplier_D,0
+P0155,Home Decor,Furniture,136.53,157.99,Supplier_A,0
+P0156,Home Decor,Lighting,129.65,158.72,Supplier_A,0
+P0157,Books,Fiction,210.2,494.36,Supplier_A,1
+P0158,Beauty,Skincare,360.68,416.6,Supplier_A,0
+P0159,Electronics,Laptops,86.79,201.62,Supplier_C,0
+P0160,Books,Fiction,174.59,389.12,Supplier_A,1
+P0161,Clothing,Men,493.82,914.16,Supplier_D,1
+P0162,Beauty,Skincare,328.21,530.55,Supplier_D,1
+P0163,Home Decor,Furniture,78.05,102.0,Supplier_C,0
+P0164,Clothing,Kids,430.0,924.27,Supplier_D,1
+P0165,Books,Non-Fiction,251.34,463.88,Supplier_C,1
+P0166,Electronics,Accessories,219.78,247.93,Supplier_A,0
+P0167,Electronics,Accessories,90.14,166.71,Supplier_A,0
+P0168,Electronics,Mobiles,317.12,650.32,Supplier_C,1
+P0169,Electronics,Mobiles,265.81,509.8,Supplier_B,1
+P0170,Home Decor,Kitchen,385.45,656.93,Supplier_C,1
+P0171,Home Decor,Furniture,201.85,476.27,Supplier_D,1
+P0172,Home Decor,Kitchen,210.24,521.64,Supplier_A,1
+P0173,Electronics,Mobiles,53.39,75.57,Supplier_B,0
+P0174,Sports,Gym,133.96,200.82,Supplier_C,0
+P0175,Electronics,Accessories,73.24,82.43,Supplier_A,0
+P0176,Sports,Team Sports,453.47,864.5,Supplier_C,1
+P0177,Sports,Team Sports,417.68,610.26,Supplier_D,0
+P0178,Beauty,Haircare,419.39,883.16,Supplier_C,1
+P0179,Home Decor,Kitchen,427.36,592.8,Supplier_B,0
+P0180,Beauty,Haircare,139.78,297.83,Supplier_D,0
+P0181,Electronics,Laptops,395.5,483.38,Supplier_B,0
+P0182,Clothing,Kids,266.51,491.88,Supplier_A,1
+P0183,Beauty,Skincare,254.42,475.27,Supplier_B,1
+P0184,Sports,Gym,195.06,435.73,Supplier_A,1
+P0185,Books,Fiction,392.1,758.28,Supplier_D,1
+P0186,Beauty,Haircare,407.43,,Supplier_A,0
+P0187,Beauty,Skincare,105.93,224.92,Supplier_A,0
+P0188,Home Decor,Kitchen,79.92,170.84, ,0
+P0189,Sports,Outdoor,112.9,249.88,Supplier_B,0
+P0190,Sports,Gym,421.31,573.39,Supplier_C,0
+P0191,Clothing,Women,285.38,457.28,Supplier_A,0
+P0192,Home Decor,Furniture,357.34,619.18,Supplier_D,1
+P0193,Beauty,Haircare,330.85,613.95,Supplier_C,1
+P0194,Electronics,Mobiles,209.91,345.95,Supplier_B,0
+P0195,Beauty,Makeup,457.91,903.89,Supplier_C,1
+P0196,Beauty,Skincare,199.77,424.06,Supplier_B,1
+P0197,Sports,Team Sports,445.38,798.84,Supplier_B,1
+P0198,Clothing,Men,118.25,181.69,Supplier_A,0
+P0199,Clothing,Kids,114.41,158.61,Supplier_B,0
+P0200,Home Decor,Furniture,444.54,701.9,Supplier_B,1
+P0201,Books,Educational,220.47,383.57,Supplier_D,0
+P0202,Books,Fiction,268.86,449.68, ,0
+P0203,Home Decor,Kitchen,338.52,701.25,Supplier_D,1
+P0204,Home Decor,Kitchen,319.56,721.42,Supplier_B,1
+P0205,Home Decor,Lighting,152.31,257.86,Supplier_B,0
+P0206,Beauty,Haircare,119.01,228.58,Supplier_B,0
+P0207,Home Decor,Furniture,165.21,349.67,Supplier_C,0
+P0208,Sports,Outdoor,465.12,972.17,Supplier_B,1
+P0209,Electronics,Accessories,323.02,547.13,Supplier_A,1
+P0210,Beauty,Makeup,466.51,807.6,Supplier_B,1
+P0211,Books,Fiction,124.48,,Supplier_C,0
+P0212,Electronics,Mobiles,441.45,806.26,Supplier_D,1
+P0213,Books,Educational,74.64,117.14,Supplier_D,0
+P0214,Electronics,Mobiles,321.67,405.3,Supplier_D,0
+P0215,Electronics,Laptops,463.94,735.28,Supplier_B,1
+P0216,Clothing,Women,463.3,890.42,Supplier_C,1
+P0217,Sports,Team Sports,113.39,152.72,Supplier_C,0
+P0218,Sports,Gym,65.25,100.22,Supplier_A,0
+P0219,Clothing,Women,149.04,208.33,Supplier_A,0
+P0220,Electronics,Mobiles,116.9,196.44,Supplier_D,0
+P0221,Electrnics,Fiction,184.82,283.49,Supplier_B,0
+P0222,Clothing,Kids,409.9,651.39,Supplier_B,1
+P0223,Books,Fiction,66.45,,Supplier_D,0
+P0224,Clothing,Women,182.32,382.81,Supplier_B,1
+P0225,Home Decor,Lighting,248.34,412.52,Supplier_B,0
+P0226,Clothing,Kids,96.34,151.07,Supplier_C,0
+P0227,Clothing,Women,171.84,,Supplier_D,0
+P0228,Electronics,Accessories,490.52,1116.28,Supplier_C,1
+P0229,Books,Fiction,298.28,434.12,Supplier_C,0
+P0230,Clothing,Kids,58.87,,Supplier_C,0
+P0231,Books,Educational,449.36,844.53,Supplier_D,1
+P0232,Home Decor,Kitchen,159.43,336.58,Supplier_D,0
+P0233,Beauty,Haircare,483.19,1170.38,Supplier_B,1
+P0234,Books,Non-Fiction,181.92,428.39,Supplier_C,1
+P0235,Home Decor,Kitchen,381.16,871.85,Supplier_D,1
+P0236,Books,Educational,312.37,527.9,Supplier_B,1
+P0237,Electronics,Accessories,331.14,519.96,Supplier_C,0
+P0238,Home Decor,Kitchen,315.63,465.65,Supplier_A,0
+P0239,Books,Non-Fiction,398.23,640.29,Supplier_A,1
+P0240,Sports,Team Sports,476.8,1034.21,Supplier_D,1
+P0241,Electronics,Laptops,304.6,755.26,Supplier_C,1
+P0242,Electronics,Laptops,60.11,88.73,Supplier_D,0
+P0243,Home Decor,Furniture,231.15,324.82,Supplier_B,0
+P0244,Clothing,Women,492.98,905.1,Supplier_A,1
+P0245,Home Decor,Kitchen,357.43,804.8,Supplier_D,1
+P0246,Books,Non-Fiction,309.43,459.1,Supplier_A,0
+P0247,Books,Fiction,273.86,577.37,Supplier_A,1
+P0248,Home Decor,Lighting,111.6,263.38,Supplier_B,0
+P0249,Clothing,Women,320.23,650.41,Supplier_C,1
+P0250,Home Decor,Furniture,427.15,711.69,Supplier_B,1
+P0251,Home Decor,Lighting,71.13,94.81,Supplier_C,0
+P0252,Electronics,Accessories,90.65,197.56,Supplier_A,0
+P0253,Books,Educational,179.91,287.49,Supplier_A,0
+P0254,Clothing,Kids,324.68,788.66,Supplier_C,1
+P0255,Beauty,Skincare,379.66,531.87,Supplier_D,0
+P0256,Sports,Team Sports,317.79,372.44,Supplier_B,0
+P0257,Clothing,Men,119.6,235.94,Supplier_B,0
+P0258,Books,Fiction,83.81,177.64,Supplier_A,0
+P0259,Books,Educational,319.23,556.59,Supplier_C,1
+P0260,Clothing,Women,409.74,849.21, ,1
+P0261,Beauty,Skincare,96.39,148.49,Supplier_C,0
+P0262,Clothing,Men,111.57,271.15,Supplier_C,0
+P0263,Electronics,Accessories,89.02,217.33,Supplier_C,0
+P0264,Books,Fiction,346.45,716.88,Supplier_B,1
+P0265,Electronics,Laptops,270.24,380.96,Supplier_B,0
+P0266,Electronics,Mobiles,351.46,408.34,Supplier_D,0
+P0267,Electronics,Accessories,300.11,528.95,Supplier_C,1
+P0268,Beauty,Haircare,363.84,551.69,Supplier_D,0
+P0269,Home Decor,Kitchen,474.92,837.71,Supplier_B,1
+P0270,Sports,Team Sports,254.81,466.67,Supplier_C,1
+P0271,Electronics,Laptops,318.32,452.66,Supplier_D,0
+P0272,Books,Non-Fiction,448.25,825.84,Supplier_B,1
+P0273,Electrnics,Team Sports,191.88,355.99,Supplier_A,0
+P0274,Beauty,Makeup,382.04,698.45,Supplier_A,1
+P0275,Home Decor,Lighting,237.88,415.51,Supplier_B,0
+P0276,Beauty,Haircare,443.62,816.48,Supplier_D,1
+P0277,Clothing,Kids,499.07,794.02,Supplier_B,1
+P0278,Electronics,Mobiles,66.92,118.56,Supplier_D,0
+P0279,Sports,Team Sports,229.23,281.58,Supplier_C,0
+P0280,Sports,Outdoor,379.52,419.25,Supplier_A,0
+P0281,Beauty,Skincare,433.77,911.69,Supplier_A,1
+P0282,Electronics,Mobiles,459.65,534.64,Supplier_C,0
+P0283,Electronics,Mobiles,355.84,500.15,Supplier_B,0
+P0284,Books,Fiction,166.54,320.42,Supplier_C,0
+P0285,Beauty,Haircare,456.68,1134.77,Supplier_C,1
+P0286,Sports,Team Sports,230.71,524.4,Supplier_B,1
+P0287,Books,Educational,280.71,399.43,Supplier_B,0
+P0288,Electronics,Laptops,66.53,162.34,Supplier_D,0
+P0289,Beauty,Makeup,76.03,186.78,Supplier_A,0
+P0290,Electronics,Accessories,318.77,584.96,Supplier_C,1
+P0291,Home Decor,Kitchen,391.21,811.53,Supplier_D,1
+P0292,Clothing,Kids,151.0,213.41,Supplier_C,0
+P0293,Electronics,Mobiles,452.71,,Supplier_C,0
+P0294,Electronics,Accessories,172.83,305.45,Supplier_C,0
+P0295,Electronics,Laptops,437.96,978.1,Supplier_D,1
+P0296,Electronics,Mobiles,380.85,568.96,Supplier_D,0
+P0297,Beauty,Haircare,375.54,673.8,Supplier_B,1
+P0298,Books,Fiction,452.52,1125.89,Supplier_B,1
+P0299,Books,Non-Fiction,316.58,713.75,Supplier_D,1
+P0300,Home Decor,Kitchen,439.02,934.01,Supplier_D,1
+P0301,Clothing,Men,120.8,160.01,Supplier_A,0
+P0302,Clothing,Men,363.86,746.72,Supplier_C,1
+P0303,Clothing,Women,135.15,315.48,Supplier_A,0
+P0304,Home Decor,Furniture,63.16,142.5,Supplier_B,0
+P0305,Clothing,Men,384.58,509.59,Supplier_D,0
+P0306,Home Decor,Lighting,390.49,570.95,Supplier_B,0
+P0307,Books,Non-Fiction,196.9,370.91,Supplier_D,0
+P0308,Home Decor,Furniture,400.93,501.07,Supplier_B,0
+P0309,Home Decor,Furniture,483.35,763.02,Supplier_D,1
+P0310,Beauty,Makeup,96.13,,Supplier_D,0
+P0311,Sports,Gym,476.28,634.85,Supplier_D,0
+P0312,Beauty,Makeup,311.98,,Supplier_B,0
+P0313,Clothing,Women,442.19,1089.07,Supplier_A,1
+P0314,Sports,Team Sports,108.54,234.61,Supplier_C,0
+P0315,Books,Educational,419.68,680.12,Supplier_D,1
+P0316,Clothing,Kids,357.48,616.39,Supplier_B,1
+P0317,Home Decor,Furniture,474.94,590.38,Supplier_A,0
+P0318,Books,Fiction,184.27,419.38,Supplier_C,1
+P0319,Beauty,Skincare,109.1,252.6,Supplier_B,0
+P0320,Sports,Outdoor,474.63,800.99,Supplier_C,1
+P0321,Sports,Gym,392.04,674.01,Supplier_C,1
+P0322,Electronics,Laptops,452.34,643.21,Supplier_A,0
+P0323,Clothing,Men,343.25,554.67,Supplier_C,1
+P0324,Sports,Team Sports,485.69,660.41,Supplier_A,0
+P0325,Books,Fiction,119.15,206.74,Supplier_B,0
+P0326,Sports,Team Sports,331.8,425.94,Supplier_A,0
+P0327,Sports,Gym,327.49,725.45,Supplier_A,1
+P0328,Beauty,Skincare,319.25,622.61,Supplier_D,1
+P0329,Sports,Outdoor,140.24,250.77,Supplier_C,0
+P0330,Beauty,Skincare,196.67,378.85,Supplier_D,0
+P0331,Clothing,Men,117.31,205.35,Supplier_B,0
+P0332,Home Decor,Lighting,488.61,1031.29,Supplier_C,1
+P0333,Books,Fiction,437.06,957.93,Supplier_D,1
+P0334,Clothing,Women,387.12,504.92,Supplier_D,0
+P0335,Electronics,Laptops,114.12,205.24,Supplier_B,0
+P0336,Sports,Outdoor,301.84,336.16,Supplier_D,0
+P0337,Electronics,Laptops,290.41,678.26,Supplier_B,1
+P0338,Electronics,Mobiles,85.36,141.33,Supplier_B,0
+P0339,Beauty,Haircare,140.39,290.67,Supplier_C,0
+P0340,Home Decor,Lighting,125.37,156.26,Supplier_C,0
+P0341,Books,Educational,453.3,876.09,Supplier_A,1
+P0342,Electronics,Laptops,470.84,1142.4,Supplier_D,1
+P0343,Beauty,Skincare,325.52,578.82,Supplier_C,1
+P0344,Sports,Gym,417.78,724.12,Supplier_C,1
+P0345,Electronics,Laptops,247.37,523.13,Supplier_D,1
+P0346,Sports,Outdoor,265.68,521.27,Supplier_C,1
+P0347,Beauty,Makeup,131.95,291.03,Supplier_C,0
+P0348,Clothing,Women,59.39,119.64,Supplier_A,0
+P0349,Electronics,Accessories,342.65,472.63,Supplier_C,0
+P0350,Books,Fiction,238.28,330.02,Supplier_C,0
+P0351,Sports,Outdoor,440.72,933.47,Supplier_A,1
+P0352,Sports,Outdoor,205.67,333.07,Supplier_D,0
+P0353,Sports,Gym,440.16,840.78,Supplier_D,1
+P0354,Home Decor,Furniture,227.98,444.26,Supplier_C,1
+P0355,Home Decor,Lighting,344.75,858.09,Supplier_B,1
+P0356,Beauty,Makeup,144.8,285.56,Supplier_D,0
+P0357,Books,Educational,156.11,341.31,Supplier_D,0
+P0358,Beauty,Haircare,334.64,542.79,Supplier_B,1
+P0359,Books,Fiction,81.11,138.86, ,0
+P0360,Sports,Outdoor,250.39,455.89,Supplier_A,1
+P0361,Sports,Gym,92.87,186.94,Supplier_A,0
+P0362,Electronics,Laptops,436.09,485.22,Supplier_A,0
+P0363,Sports,Outdoor,156.66,223.8,Supplier_B,0
+P0364,Clothing,Women,126.39,231.0,Supplier_B,0
+P0365,Sports,Gym,115.59,199.88,Supplier_D,0
+P0366,Clothing,Men,163.64,262.3,Supplier_D,0
+P0367,Electronics,Accessories,381.38,773.95,Supplier_A,1
+P0368,Electronics,Mobiles,367.42,633.77,Supplier_C,1
+P0369,Beauty,Haircare,100.36,148.3,Supplier_B,0
+P0370,Electronics,Accessories,154.01,180.56,Supplier_A,0
+P0371,Clothing,Women,131.0,160.35,Supplier_A,0
+P0372,Electronics,Accessories,68.71,89.85,Supplier_A,0
+P0373,Home Decor,Kitchen,52.22,127.03,Supplier_B,0
+P0374,Books,Fiction,311.05,452.86,Supplier_C,0
+P0375,Home Decor,Kitchen,350.09,453.54,Supplier_D,0
+P0376,Beauty,Makeup,114.59,276.83,Supplier_D,0
+P0377,Home Decor,Furniture,92.26,188.35,Supplier_D,0
+P0378,Beauty,Makeup,483.51,704.68,Supplier_A,1
+P0379,Home Decor,Kitchen,357.46,642.02,Supplier_A,1
+P0380,Home Decor,Kitchen,306.77,350.5,Supplier_D,0
+P0381,Electronics,Laptops,463.41,,Supplier_C,0
+P0382,Beauty,Makeup,350.14,668.08,Supplier_B,1
+P0383,Sports,Gym,499.74,583.44,Supplier_A,0
+P0384,Electronics,Mobiles,497.0,1070.24,Supplier_A,1
+P0385,Books,Educational,382.3,890.73,Supplier_A,1
+P0386,Beauty,Skincare,466.55,799.41,Supplier_B,1
+P0387,Home Decor,Furniture,409.02,699.34,Supplier_C,1
+P0388,Electronics,Laptops,295.02,326.9,Supplier_C,0
+P0389,Electronics,Laptops,228.28,473.37,Supplier_D,1
+P0390,Books,Fiction,318.42,593.52,Supplier_C,1
+P0391,Sports,Gym,82.94,161.3,Supplier_B,0
+P0392,Beauty,Skincare,391.7,705.31,Supplier_A,1
+P0393,Home Decor,Lighting,265.63,301.73,Supplier_B,0
+P0394,Electronics,Mobiles,229.47,,Supplier_D,0
+P0395,Sports,Team Sports,227.46,425.17,Supplier_B,0
+P0396,Home Decor,Kitchen,284.56,640.63,Supplier_C,1
+P0397,Books,Educational,159.57,382.62,Supplier_C,1
+P0398,Sports,Outdoor,265.63,364.55,Supplier_B,0
+P0399,Books,Fiction,178.19,272.67,Supplier_C,0
+P0400,Sports,Team Sports,311.42,381.64,Supplier_B,0
+P0401,Home Decor,Lighting,172.68,289.93,Supplier_A,0
+P0402,Beauty,Haircare,105.45,242.87,Supplier_C,0
+P0403,Books,Educational,369.07,461.2,Supplier_B,0
+P0404,Books,Non-Fiction,462.99,784.46,Supplier_B,1
+P0405,Beauty,Makeup,218.08,400.63, ,0
+P0406,Clothing,Men,320.73,720.63,Supplier_B,1
+P0407,Sports,Outdoor,407.18,816.51,Supplier_D,1
+P0408,Home Decor,Furniture,427.94,1009.95,Supplier_D,1
+P0409,Electronics,Laptops,165.04,251.34,Supplier_D,0
+P0410,Clothing,Kids,350.4,432.3,Supplier_D,0
+P0411,Home Decor,Furniture,240.78,316.42,Supplier_A,0
+P0412,Clothing,Women,262.8,486.05,Supplier_B,1
+P0413,Books,Educational,153.61,213.31,Supplier_C,0
+P0414,Home Decor,Furniture,225.91,436.51,Supplier_B,1
+P0415,Electronics,Laptops,173.54,335.96,Supplier_B,0
+P0416,Clothing,Women,242.69,510.77,Supplier_A,1
+P0417,Clothing,Kids,203.49,457.08,Supplier_D,1
+P0418,Home Decor,Lighting,310.27,460.39,Supplier_B,0
+P0419,Sports,Outdoor,452.39,619.14,Supplier_D,0
+P0420,Electronics,Accessories,204.6,401.84,Supplier_A,0
+P0421,Electronics,Laptops,351.32,420.85,Supplier_D,0
+P0422,Books,Non-Fiction,316.77,650.06,Supplier_D,1
+P0423,Books,Non-Fiction,199.85,407.15,Supplier_C,1
+P0424,Sports,Gym,213.32,531.96,Supplier_C,1
+P0425,Beauty,Skincare,303.03,739.61,Supplier_A,1
+P0426,Books,Educational,389.68,521.65,Supplier_B,0
+P0427,Beauty,Skincare,252.67,545.41,Supplier_A,1
+P0428,Sports,Team Sports,467.23,667.44,Supplier_D,1
+P0429,Clothing,Women,496.62,1190.79, ,1
+P0430,Electronics,Mobiles,352.2,433.24, ,0
+P0431,Home Decor,Kitchen,439.11,857.09,Supplier_D,1
+P0432,Beauty,Skincare,78.4,99.15,Supplier_C,0
+P0433,Home Decor,Furniture,212.06,259.29,Supplier_C,0
+P0434,Electronics,Mobiles,279.38,630.1,Supplier_B,1
+P0435,Home Decor,Lighting,282.06,673.31,Supplier_C,1
+P0436,Beauty,Makeup,225.97,407.11,Supplier_A,0
+P0437,Home Decor,Lighting,417.85,682.3,Supplier_D,1
+P0438,Home Decor,Lighting,374.64,486.2,Supplier_C,0
+P0439,Sports,Gym,86.41,143.81,Supplier_B,0
+P0440,Clothing,Women,150.63,367.57,Supplier_B,1
+P0441,Home Decor,Furniture,308.82,546.96,Supplier_A,1
+P0442,Sports,Team Sports,269.18,524.56,Supplier_B,1
+P0443,Beauty,Makeup,192.89,469.48,Supplier_B,1
+P0444,Electronics,Mobiles,215.39,257.49,Supplier_B,0
+P0445,Sports,Outdoor,154.65,187.43,Supplier_D,0
+P0446,Sports,Outdoor,471.4,1096.74,Supplier_A,1
+P0447,Sports,Team Sports,338.37,474.55,Supplier_B,0
+P0448,Home Decor,Kitchen,118.41,140.42,Supplier_C,0
+P0449,Home Decor,Lighting,145.29,258.39,Supplier_B,0
+P0450,Books,Educational,362.77,898.63,Supplier_C,1
+P0451,Electronics,Accessories,83.58,183.53,Supplier_B,0
+P0452,Clothing,Kids,361.47,429.14,Supplier_D,0
+P0453,Sports,Team Sports,153.0,218.14,Supplier_D,0
+P0454,Sports,Outdoor,330.75,607.88,Supplier_C,1
+P0455,Home Decor,Kitchen,406.44,677.42,Supplier_D,1
+P0456,Books,Educational,215.49,361.98,Supplier_B,0
+P0457,Books,Fiction,396.19,441.92,Supplier_B,0
+P0458,Beauty,Haircare,238.36,525.94,Supplier_A,1
+P0459,Home Decor,Kitchen,111.7,206.58,Supplier_A,0
+P0460,Books,Fiction,425.44,842.8,Supplier_A,1
+P0461,Home Decor,Furniture,481.81,859.06,Supplier_C,1
+P0462,Electronics,Accessories,254.47,580.73,Supplier_C,1
+P0463,Books,Non-Fiction,107.24,247.78,Supplier_D,0
+P0464,Sports,Gym,264.21,429.67,Supplier_D,0
+P0465,Books,Non-Fiction,226.58,552.56,Supplier_A,1
+P0466,Electronics,Mobiles,346.41,838.3,Supplier_B,1
+P0467,Sports,Outdoor,175.72,422.15,Supplier_D,1
+P0468,Sports,Outdoor,421.31,755.67,Supplier_D,1
+P0469,Clothing,Women,336.5,,Supplier_D,0
+P0470,Books,Educational,97.56,242.3,Supplier_C,0
+P0471,Books,Fiction,67.11,143.93,Supplier_A,0
+P0472,Books,Educational,82.07,91.66,Supplier_A,0
+P0473,Sports,Outdoor,224.42,392.0,Supplier_D,0
+P0474,Clothing,Kids,474.04,1041.65,Supplier_C,1
+P0475,Clothing,Women,94.28,190.86,Supplier_D,0
+P0476,Home Decor,Lighting,87.18,158.71,Supplier_A,0
+P0477,Electronics,Mobiles,221.87,307.95,Supplier_A,0
+P0478,Sports,Gym,167.32,200.28,Supplier_A,0
+P0479,Home Decor,Kitchen,68.88,169.16,Supplier_A,0
+P0480,Sports,Team Sports,490.99,953.81,Supplier_A,1
+P0481,Sports,Gym,107.64,169.38,Supplier_D,0
+P0482,Home Decor,Kitchen,92.76,150.86,Supplier_B,0
+P0483,Sports,Gym,325.82,788.59,Supplier_B,1
+P0484,Sports,Outdoor,354.19,635.59,Supplier_A,1
+P0485,Books,Educational,352.15,543.62,Supplier_C,0
+P0486,Electronics,Mobiles,294.81,586.81,Supplier_B,1
+P0487,Books,Non-Fiction,428.9,909.22,Supplier_C,1
+P0488,Sports,Team Sports,194.03,,Supplier_A,0
+P0489,Beauty,Makeup,377.58,472.39,Supplier_A,0
+P0490,Sports,Team Sports,484.31,863.89,Supplier_C,1
+P0491,Sports,Outdoor,236.04,510.19,Supplier_A,1
+P0492,Clothing,Kids,97.67,128.16,Supplier_B,0
+P0493,Sports,Team Sports,444.71,759.27,Supplier_D,1
+P0494,Home Decor,Lighting,54.2,78.34,Supplier_A,0
+P0495,Clothing,Men,175.06,240.1,Supplier_D,0
+P0496,Home Decor,Lighting,141.82,266.21,Supplier_D,0
+P0497,Beauty,Haircare,326.74,674.08,Supplier_D,1
+P0498,Books,Fiction,299.4,331.53,Supplier_B,0
+P0499,Home Decor,Lighting,424.71,473.74,Supplier_A,0
+P0500,Home Decor,Furniture,215.57,335.8,Supplier_C,0

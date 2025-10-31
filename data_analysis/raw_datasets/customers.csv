@@ -1,0 +1,2006 @@
+Customer_ID,Age,Annual_Income,Region,Segment,Loyalty_Score,High_Value
+C00001,31,51934.65,South,Small Business,7.33,0
+C00002,41,64551.67,South,Corporate,8.24,0
+C00003,48,45114.86,West,Retail,7.71,0
+C00004,55,65788.27,North,Small Business,8.43,1
+C00005,36,42874.66,East,Retail,4.91,0
+C00006,35,57095.11,East,Retail,6.38,0
+C00007,64,44637.2,West,Small Business,2.07,0
+C00008,23,87811.39,East,Corporate,7.72,1
+C00009,56,88268.79,North,Retail,9.82,1
+C00010,20,83148.65,North,Small Business,1.22,1
+C00011,62,66432.18,East,Retail,1.51,1
+C00012,52,62959.51,South,Corporate,8.85,0
+C00013,46,38996.92,North,Corporate,9.44,0
+C00014,53,,South,Corporate,1.73,0
+C00015,56,55886.57,West,Retail,9.61,0
+C00016,47,45010.31,West,Corporate,3.54,0
+C00017,45,45689.07,South,Corporate,3.45,0
+C00018,48,45695.93,South,Retail,7.99,0
+C00019,61,62608.74,East,Corporate,9.16,0
+C00020,38,57461.24,West,Corporate,4.7,0
+C00021,24,57737.47,West,Small Business,9.67,0
+C00022,32,56445.01,West,Small Business,4.54,0
+C00023,43,,North,Retail,9.83,0
+C00024,35,52064.21,North,Small Business,7.53,0
+C00025,54,40002.64,North,Retail,6.48,0
+C00026,58,96221.86,North,Corporate,7.48,1
+C00027,59,63958.42,North,Retail,9.82,0
+C00028,51,51142.83,West,Corporate,5.88,0
+C00029,56,65692.23,South,Corporate,5.12,1
+C00030,18,87172.57,South,Retail,2.27,1
+C00031,39,66548.4,South,Small Business,6.86,1
+C00032,39,73559.02,West,Small Business,5.61,1
+C00033,27,28003.0,North,Corporate,3.97,0
+C00034,63,59452.0,West,Corporate,1.16,0
+C00035,57,54592.9,North,Corporate,7.76,0
+C00036,66,67671.23,East,Corporate,1.59,1
+C00037,20,61250.21,West,Small Business,1.95,0
+C00038,69,73219.27,East,Retail,4.58,1
+C00039,60,61699.06,West,Retail,6.2,0
+C00040,38,38425.83,West,Small Business,6.78,0
+C00041,32,61017.83,north,Corporate,8.14,0
+C00042,24,72791.61,West,Small Business,4.27,1
+C00043,44,54978.37,West,Retail,7.59,0
+C00044,65,53945.27,East,Retail,4.96,0
+C00045,23,65101.77,East,Retail,4.76,1
+C00046,38,51862.98,north,Retail,3.91,0
+C00047,45,57192.84,East,Small Business,7.18,0
+C00048,20,74785.95,North,Retail,8.41,1
+C00049,43,62915.76,North,Retail,3.67,0
+C00050,55,54702.51,South,Corporate,7.39,0
+C00051,61,40080.95,West,Corporate,8.37,0
+C00052,29,76247.68,West,Corporate,2.56,1
+C00053,38,51024.48,South,Retail,7.66,0
+C00054,35,84615.7,South,Small Business,6.86,1
+C00055,65,83737.45,West,Small Business,8.59,1
+C00056,44,67702.43,north,Retail,2.14,1
+C00057,33,55236.4,West,Small Business,2.57,0
+C00058,26,49868.08,West,Retail,8.53,0
+C00059,40,56636.17,South,Retail,2.94,0
+C00060,32,51087.35,East,Retail,1.3,0
+C00061,63,65139.19,North,Small Business,8.27,1
+C00062,30,63301.04,East,Corporate,6.86,0
+C00063,23,70088.61,East,Corporate,5.02,1
+C00064,55,88498.23,South,Retail,5.92,1
+C00065,52,79613.68,East,Retail,1.38,1
+C00066,41,54340.83,South,Corporate,9.7,0
+C00067,39,53471.67,East,Small Business,7.79,0
+C00068,26,71258.8,West,Retail,9.67,1
+C00069,26,73329.94,West,Small Business,8.85,1
+C00070,31,52098.67,West,Corporate,2.08,0
+C00071,53,56648.01,West,Retail,5.22,0
+C00072,42,54760.25,South,Small Business,1.67,0
+C00073,58,75751.66,West,Small Business,9.13,1
+C00074,25,47040.73,South,Retail,3.97,0
+C00075,39,58433.26,North,Corporate,4.86,0
+C00076,28,57467.67,West,Corporate,8.7,0
+C00077,38,46089.7,North,Retail,9.19,0
+C00078,21,,East,Retail,1.58,0
+C00079,49,69799.25,East,Corporate,4.91,1
+C00080,64,100313.02,East,Retail,4.07,1
+C00081,69,91578.04,East,Corporate,6.33,1
+C00082,46,43304.18,East,Small Business,5.61,0
+C00083,45,70909.8,East,Corporate,3.36,1
+C00084,41,49886.69,north,Small Business,7.69,0
+C00085,18,50645.92,South,Retail,1.03,0
+C00086,29,36768.56,South,Corporate,9.17,0
+C00087,36,56697.08,West,Corporate,6.5,0
+C00088,62,28982.18,West,Retail,5.65,0
+C00089,55,64468.82,North,Corporate,5.17,0
+C00090,66,64330.99,West,Corporate,4.57,0
+C00091,58,48312.73,North,Retail,2.02,0
+C00092,68,57085.03,East,Small Business,6.17,0
+C00093,56,88517.86,East,Small Business,2.18,1
+C00094,63,59090.09,North,Retail,4.51,0
+C00095,36,72470.24,North,Retail,6.47,1
+C00096,65,57277.83,North,Retail,7.47,0
+C00097,45,52754.08,North,Small Business,1.54,0
+C00098,64,62201.9,West,Corporate,3.31,0
+C00099,21,47515.59,South,Retail,2.09,0
+C00100,45,26862.73,West,Retail,1.64,0
+C00101,68,67678.86,East,Retail,7.11,1
+C00102,19,57475.38,East,Small Business,6.39,0
+C00103,31,70623.22,North,Small Business,8.86,1
+C00104,37,63498.24,South,Small Business,7.67,0
+C00105,46,60875.27,West,Corporate,1.11,0
+C00106,29,48828.24,East,Small Business,5.37,0
+C00107,62,71973.81,South,Retail,2.94,1
+C00108,42,57062.09,East,Retail,1.61,0
+C00109,38,50306.59,East,Retail,3.48,0
+C00110,55,86629.66,South,Corporate,5.02,1
+C00111,51,46065.3,West,Small Business,7.83,0
+C00112,40,27658.48,West,Small Business,6.24,0
+C00113,53,68652.57,South,Retail,6.81,1
+C00114,54,24124.18,West,Retail,4.11,0
+C00115,37,63414.8,South,Small Business,4.07,0
+C00116,48,,East,Corporate,6.36,0
+C00117,66,74472.77,South,Corporate,5.09,1
+C00118,21,84233.74,North,Retail,9.75,1
+C00119,47,60082.39,East,Retail,4.46,0
+C00120,44,52864.42,South,Corporate,9.33,0
+C00121,44,56118.06,South,Corporate,9.1,0
+C00122,54,83979.71,South,Retail,5.27,1
+C00123,23,77596.87,North,Retail,3.6,1
+C00124,64,65544.63,South,Retail,4.47,1
+C00125,65,99493.87,North,Corporate,3.22,1
+C00126,40,32915.92,East,Small Business,3.72,0
+C00127,49,47099.09,North,Corporate,7.1,0
+C00128,38,68352.62,West,Small Business,6.02,1
+C00129,68,64398.93,North,Small Business,2.35,0
+C00130,51,42254.78,East,Small Business,8.04,0
+C00131,52,64377.93,North,Corporate,5.15,0
+C00132,56,,North,Retail,5.28,0
+C00133,53,84966.6,South,Retail,5.13,1
+C00134,38,83428.6,South,Small Business,5.94,1
+C00135,22,50017.72,South,Corporate,9.5,0
+C00136,34,73097.54,north,Small Business,5.62,1
+C00137,61,76890.75,East,Small Business,4.38,1
+C00138,55,59229.09,East,Retail,6.06,0
+C00139,40,63607.07,North,Small Business,6.2,0
+C00140,68,23703.82,North,Corporate,5.1,0
+C00141,45,67816.84,West,Small Business,9.6,1
+C00142,65,,East,Retail,1.54,0
+C00143,62,77487.09,West,Small Business,3.81,1
+C00144,20,56933.18,East,Retail,5.59,0
+C00145,63,70840.44,South,Corporate,7.19,1
+C00146,60,47064.71,East,Corporate,5.75,0
+C00147,38,,West,Small Business,2.9,0
+C00148,47,52026.65,East,Small Business,9.98,0
+C00149,25,78138.99,East,Retail,1.05,1
+C00150,25,38406.54,North,Retail,7.9,0
+C00151,53,50711.45,East,Retail,7.51,0
+C00152,31,64696.78,West,Corporate,1.22,0
+C00153,28,48113.7,West,Retail,9.53,0
+C00154,51,55380.58,North,Retail,1.91,0
+C00155,55,53050.97,East,Corporate,8.15,0
+C00156,33,56708.34,South,Corporate,1.66,0
+C00157,30,43475.07,South,Small Business,4.61,0
+C00158,40,69544.4,South,Corporate,3.4,1
+C00159,46,77254.44,North,Retail,2.97,1
+C00160,30,64197.64,North,Small Business,4.22,0
+C00161,42,14707.32,South,Corporate,1.65,0
+C00162,49,62757.74,South,Corporate,5.17,0
+C00163,63,67145.37,South,Corporate,5.68,1
+C00164,30,67582.05,East,Small Business,7.49,1
+C00165,29,32499.88,South,Corporate,7.5,0
+C00166,58,59578.74,West,Retail,3.86,0
+C00167,48,68404.6,South,Corporate,7.36,1
+C00168,40,50765.57,West,Corporate,5.2,0
+C00169,23,72376.47,North,Small Business,8.44,1
+C00170,60,46993.05,East,Retail,8.58,0
+C00171,61,72877.7,East,Retail,4.8,1
+C00172,23,62270.97,West,Small Business,1.8,0
+C00173,40,23417.74,East,Retail,7.33,0
+C00174,27,57985.81,East,Small Business,3.29,0
+C00175,60,62872.6,West,Small Business,9.56,0
+C00176,64,61025.56,North,Corporate,3.42,0
+C00177,37,69236.57,South,Retail,4.24,1
+C00178,65,78058.27,East,Retail,5.28,1
+C00179,65,51741.95,West,Retail,1.47,0
+C00180,58,,North,Corporate,5.97,0
+C00181,53,54050.07,North,Corporate,5.25,0
+C00182,39,67237.86,North,Retail,7.79,1
+C00183,62,48869.91,East,Corporate,7.63,0
+C00184,23,53730.55,West,Retail,7.14,0
+C00185,18,55070.72,East,Retail,1.52,0
+C00186,27,69047.81,North,Small Business,8.52,1
+C00187,63,64375.96,South,Corporate,7.38,0
+C00188,31,57252.33,South,Small Business,5.44,0
+C00189,64,69885.47,West,Retail,5.18,1
+C00190,53,55867.35,South,Corporate,7.1,0
+C00191,37,34557.31,North,Corporate,8.71,0
+C00192,59,55071.98,East,Small Business,8.26,0
+C00193,51,56085.68,West,Retail,4.08,0
+C00194,24,40683.37,West,Retail,4.35,0
+C00195,33,88235.43,North,Small Business,8.91,1
+C00196,68,71794.69,North,Small Business,8.47,1
+C00197,40,56651.97,South,Small Business,3.73,0
+C00198,20,82347.95,North,Retail,9.44,1
+C00199,51,85072.24,East,Corporate,6.24,1
+C00200,57,58386.61,North,Small Business,8.07,0
+C00201,49,79379.2,West,Corporate,4.29,1
+C00202,43,80232.44,West,Small Business,2.27,1
+C00203,43,53093.9,East,Small Business,9.83,0
+C00204,25,72971.17,West,Small Business,2.47,1
+C00205,28,47837.14,West,Corporate,3.61,0
+C00206,64,41136.33,East,Retail,7.21,0
+C00207,43,47472.86,South,Retail,9.62,0
+C00208,44,91343.08,South,Small Business,4.19,1
+C00209,38,61615.43,South,Corporate,7.85,0
+C00210,31,66176.79,South,Corporate,4.9,1
+C00211,47,76307.93,West,Retail,1.45,1
+C00212,50,62727.59,North,Small Business,8.14,0
+C00213,28,84248.56,North,Small Business,5.48,1
+C00214,43,43519.46,South,Retail,2.97,0
+C00215,54,90364.64,East,Corporate,6.6,1
+C00216,43,39552.39,South,Small Business,7.59,0
+C00217,51,47450.58,West,Corporate,9.7,0
+C00218,25,83748.38,North,Corporate,5.29,1
+C00219,49,44137.93,East,Small Business,8.03,0
+C00220,37,48752.83,West,Corporate,7.94,0
+C00221,39,77065.59,West,Retail,4.39,1
+C00222,45,65243.92,South,Small Business,6.71,1
+C00223,41,52650.75,East,Small Business,3.28,0
+C00224,44,67029.09,North,Retail,5.33,1
+C00225,30,59892.0,North,Retail,5.33,0
+C00226,20,69225.45,West,Retail,1.29,1
+C00227,52,61507.8,South,Retail,8.09,0
+C00228,69,68815.97,North,Retail,4.23,1
+C00229,21,47940.41,North,Retail,2.33,0
+C00230,62,71191.32,North,Retail,4.88,1
+C00231,28,30998.38,West,Corporate,8.56,0
+C00232,62,85331.91,West,Small Business,9.05,1
+C00233,24,55260.62,South,Small Business,5.29,0
+C00234,32,76546.96,South,Retail,6.32,1
+C00235,58,71191.51,South,Corporate,1.64,1
+C00236,21,35624.46,South,Small Business,8.92,0
+C00237,18,78984.44,West,Small Business,3.99,1
+C00238,51,54468.06,North,Corporate,8.42,0
+C00239,51,61642.06,West,Small Business,9.38,0
+C00240,48,75787.93,South,Retail,7.89,1
+C00241,23,49027.3,North,Small Business,8.94,0
+C00242,39,44652.07,East,Corporate,7.59,0
+C00243,53,69994.69,East,Corporate,3.73,1
+C00244,54,66938.87,North,Small Business,3.44,1
+C00245,65,81895.98,North,Small Business,4.73,1
+C00246,59,34198.46,South,Small Business,3.42,0
+C00247,26,71629.19,South,Retail,4.26,1
+C00248,65,39069.99,West,Small Business,7.43,0
+C00249,38,81850.65,East,Retail,2.55,1
+C00250,34,64677.21,North,Small Business,8.45,0
+C00251,57,55883.4,South,Small Business,8.65,0
+C00252,34,63305.72,South,Small Business,1.47,0
+C00253,26,40513.25,West,Retail,8.71,0
+C00254,66,41666.82,West,Small Business,4.92,0
+C00255,18,57256.48,West,Corporate,1.14,0
+C00256,60,30523.49,West,Small Business,1.1,0
+C00257,50,59095.67,West,Small Business,5.51,0
+C00258,23,,North,Retail,9.7,0
+C00259,36,33324.74,West,Corporate,2.07,0
+C00260,65,50175.81,north,Corporate,5.97,0
+C00261,29,66308.18,North,Small Business,3.79,1
+C00262,40,55455.67,South,Corporate,7.05,0
+C00263,54,,East,Small Business,8.66,0
+C00264,36,52943.87,East,Corporate,3.23,0
+C00265,25,61046.2,South,Retail,3.76,0
+C00266,44,50403.53,West,Retail,9.41,0
+C00267,22,50561.05,South,Small Business,4.2,0
+C00268,67,83005.92,West,Retail,7.17,1
+C00269,22,62471.16,West,Corporate,7.6,0
+C00270,40,59392.22,South,Small Business,4.77,0
+C00271,46,,South,Small Business,4.89,0
+C00272,25,52079.45,South,Corporate,5.67,0
+C00273,34,61696.44,West,Corporate,6.0,0
+C00274,35,,South,Retail,2.84,0
+C00275,66,37552.06,South,Corporate,5.35,0
+C00276,33,,South,Corporate,7.21,0
+C00277,43,49173.94,north,Small Business,9.56,0
+C00278,44,62652.31,North,Corporate,7.26,0
+C00279,36,82478.74,South,Retail,1.14,1
+C00280,20,78716.35,South,Small Business,6.07,1
+C00281,26,72281.66,North,Small Business,3.44,1
+C00282,19,83068.98,North,Retail,2.05,1
+C00283,42,68272.14,East,Corporate,6.63,1
+C00284,47,65108.84,North,Retail,4.67,1
+C00285,66,69318.28,North,Small Business,9.62,1
+C00286,53,57556.81,North,Retail,6.56,0
+C00287,49,47034.13,East,Retail,9.23,0
+C00288,45,,East,Small Business,8.36,0
+C00289,26,63957.78,North,Corporate,7.31,0
+C00290,62,37133.77,West,Small Business,2.79,0
+C00291,40,58888.09,South,Retail,1.69,0
+C00292,51,56367.76,West,Small Business,5.13,0
+C00293,20,66904.95,West,Corporate,4.35,1
+C00294,27,39756.77,South,Corporate,4.45,0
+C00295,53,61139.33,South,Small Business,6.55,0
+C00296,18,71140.24,East,Small Business,5.69,1
+C00297,68,54095.86,North,Corporate,8.2,0
+C00298,56,82046.98,North,Retail,9.06,1
+C00299,26,74989.95,East,Corporate,4.85,1
+C00300,53,56443.85,South,Small Business,9.43,0
+C00301,45,60040.28,West,Small Business,6.39,0
+C00302,30,19472.47,West,Corporate,5.52,0
+C00303,60,71897.54,East,Retail,7.88,1
+C00304,31,59751.96,South,Corporate,4.68,0
+C00305,55,55815.56,North,Retail,2.67,0
+C00306,38,55803.6,South,Small Business,7.49,0
+C00307,64,49584.63,North,Retail,3.79,0
+C00308,44,64949.69,West,Corporate,5.82,0
+C00309,38,55927.78,West,Retail,8.45,0
+C00310,63,,West,Small Business,9.58,0
+C00311,53,39207.63,South,Small Business,3.09,0
+C00312,66,81735.45,North,Retail,4.53,1
+C00313,68,52879.53,North,Corporate,8.15,0
+C00314,40,75496.78,North,Small Business,5.16,1
+C00315,47,90848.15,North,Small Business,7.06,1
+C00316,30,43036.67,West,Corporate,4.46,0
+C00317,65,61681.57,South,Corporate,1.75,0
+C00318,34,86169.59,South,Small Business,7.59,1
+C00319,68,49356.3,West,Small Business,3.0,0
+C00320,26,41122.43,South,Small Business,3.21,0
+C00321,64,39335.74,East,Corporate,9.64,0
+C00322,25,51528.39,East,Retail,4.73,0
+C00323,50,80125.51,South,Small Business,7.78,1
+C00324,46,25040.18,South,Corporate,4.71,0
+C00325,18,68233.18,North,Retail,5.46,1
+C00326,46,93288.02,East,Corporate,5.61,1
+C00327,30,72876.77,East,Corporate,5.57,1
+C00328,18,56480.69,North,Corporate,8.13,0
+C00329,42,46401.45,North,Retail,3.0,0
+C00330,43,85640.79,West,Retail,7.58,1
+C00331,26,78667.47,North,Corporate,8.59,1
+C00332,68,61980.31,West,Small Business,3.57,0
+C00333,24,40211.29,South,Retail,8.94,0
+C00334,20,56955.29,East,Retail,4.69,0
+C00335,57,39927.61,West,Small Business,1.6,0
+C00336,66,58692.02,North,Corporate,4.38,0
+C00337,62,48737.92,South,Small Business,7.36,0
+C00338,21,58595.81,East,Small Business,6.91,0
+C00339,60,57252.09,South,Corporate,8.58,0
+C00340,26,69767.42,West,Small Business,8.24,1
+C00341,32,61559.08,North,Corporate,5.93,0
+C00342,65,51314.21,North,Corporate,8.23,0
+C00343,69,66146.44,West,Retail,4.48,1
+C00344,45,47083.68,North,Small Business,9.01,0
+C00345,46,52674.3,East,Small Business,4.9,0
+C00346,43,49657.83,West,Corporate,6.21,0
+C00347,39,48103.12,North,Retail,7.41,0
+C00348,33,75912.21,West,Small Business,2.67,1
+C00349,62,54442.38,West,Corporate,5.56,0
+C00350,32,38916.49,West,Retail,6.26,0
+C00351,67,77338.28,South,Corporate,8.17,1
+C00352,55,53685.92,North,Small Business,6.73,0
+C00353,20,38669.9,North,Retail,7.25,0
+C00354,30,76575.91,East,Small Business,3.38,1
+C00355,56,69210.38,West,Small Business,9.85,1
+C00356,41,67925.89,West,Corporate,7.29,1
+C00357,29,53840.48,North,Small Business,3.38,0
+C00358,38,52389.24,West,Small Business,8.42,0
+C00359,63,41469.84,West,Corporate,8.99,0
+C00360,57,77469.98,East,Retail,4.93,1
+C00361,30,65025.87,East,Retail,6.19,1
+C00362,55,64742.34,West,Small Business,9.99,0
+C00363,60,96741.9,north,Retail,3.86,1
+C00364,52,42355.45,West,Small Business,4.24,0
+C00365,68,57137.74,West,Retail,3.09,0
+C00366,55,59446.81,East,Corporate,9.25,0
+C00367,66,65802.13,East,Small Business,6.62,1
+C00368,38,76364.71,North,Corporate,4.52,1
+C00369,21,86531.58,East,Retail,3.06,1
+C00370,36,52617.85,East,Small Business,9.36,0
+C00371,45,37937.92,East,Retail,9.83,0
+C00372,21,62117.54,South,Retail,5.15,0
+C00373,55,51114.66,East,Retail,7.07,0
+C00374,35,61853.22,West,Small Business,9.33,0
+C00375,61,89438.81,East,Retail,6.84,1
+C00376,27,60055.44,South,Small Business,7.73,0
+C00377,24,41910.0,West,Corporate,5.1,0
+C00378,64,65602.4,North,Retail,9.54,1
+C00379,67,83312.41,West,Corporate,7.17,1
+C00380,55,72809.64,East,Corporate,4.62,1
+C00381,30,77762.59,South,Corporate,6.25,1
+C00382,25,64496.62,West,Small Business,1.47,0
+C00383,25,63099.7,East,Corporate,6.93,0
+C00384,24,71077.36,West,Retail,9.79,1
+C00385,65,78192.31,West,Small Business,2.13,1
+C00386,68,52448.47,West,Retail,9.08,0
+C00387,64,84381.48,East,Small Business,7.98,1
+C00388,63,81112.9,West,Small Business,4.92,1
+C00389,29,65146.01,South,Retail,1.77,1
+C00390,28,64626.75,South,Corporate,4.75,0
+C00391,51,49822.72,West,Corporate,1.67,0
+C00392,32,59426.83,North,Small Business,9.87,0
+C00393,57,53829.15,West,Retail,3.09,0
+C00394,27,52739.26,East,Retail,4.18,0
+C00395,30,54308.93,West,Corporate,8.78,0
+C00396,40,64980.98,South,Corporate,8.46,0
+C00397,28,80280.43,North,Corporate,8.03,1
+C00398,63,64232.81,West,Small Business,1.03,0
+C00399,40,58791.0,East,Corporate,8.4,0
+C00400,59,47504.16,North,Corporate,5.13,0
+C00401,30,69448.72,West,Retail,8.76,1
+C00402,32,29408.53,East,Small Business,2.14,0
+C00403,30,42234.6,South,Retail,7.67,0
+C00404,29,52509.24,West,Corporate,8.54,0
+C00405,24,63079.0,West,Small Business,7.29,0
+C00406,42,56065.56,West,Corporate,9.13,0
+C00407,62,,South,Corporate,6.8,0
+C00408,21,84389.38,West,Small Business,9.39,1
+C00409,30,,South,Retail,3.51,0
+C00410,45,66031.32,East,Retail,4.66,1
+C00411,33,65705.72,West,Small Business,6.14,1
+C00412,23,57137.38,South,Small Business,9.45,0
+C00413,29,77695.88,East,Retail,2.58,1
+C00414,42,62911.61,East,Retail,3.27,0
+C00415,38,54590.28,South,Retail,6.61,0
+C00416,59,68083.79,South,Retail,6.65,1
+C00417,30,48488.68,North,Small Business,2.8,0
+C00418,41,46854.23,South,Corporate,9.54,0
+C00419,40,45952.4,South,Small Business,9.18,0
+C00420,56,49983.31,North,Retail,7.95,0
+C00421,33,80581.75,East,Retail,7.34,1
+C00422,30,69108.68,West,Corporate,4.58,1
+C00423,47,90354.01,South,Retail,1.41,1
+C00424,34,55768.5,West,Small Business,6.54,0
+C00425,26,83015.45,North,Small Business,6.64,1
+C00426,47,57335.45,North,Retail,4.94,0
+C00427,64,36703.02,East,Retail,7.96,0
+C00428,25,55477.54,West,Small Business,2.56,0
+C00429,18,41194.5,East,Small Business,6.12,0
+C00430,48,66939.99,North,Retail,3.13,1
+C00431,46,63030.31,West,Corporate,4.29,0
+C00432,55,63224.1,North,Retail,8.44,0
+C00433,25,49217.51,East,Retail,3.99,0
+C00434,19,71175.08,East,Small Business,6.73,1
+C00435,34,43568.5,West,Corporate,6.58,0
+C00436,54,68191.1,East,Corporate,3.5,1
+C00437,60,51597.2,South,Retail,7.36,0
+C00438,63,29663.08,East,Corporate,3.5,0
+C00439,63,,North,Corporate,4.09,0
+C00440,57,48009.77,north,Small Business,9.86,0
+C00441,41,69607.2,north,Small Business,1.83,1
+C00442,33,57142.45,West,Small Business,2.35,0
+C00443,31,72735.16,East,Corporate,1.05,1
+C00444,59,58421.45,North,Corporate,6.83,0
+C00445,57,72977.98,North,Small Business,7.81,1
+C00446,33,62499.93,North,Small Business,5.16,0
+C00447,58,,South,Small Business,8.96,0
+C00448,37,86210.45,West,Small Business,3.66,1
+C00449,65,43433.83,North,Corporate,2.66,0
+C00450,38,73859.56,North,Retail,8.4,1
+C00451,38,63439.71,South,Retail,5.44,0
+C00452,63,85690.02,West,Small Business,4.9,1
+C00453,38,32916.64,South,Retail,1.41,0
+C00454,61,,East,Small Business,6.93,0
+C00455,35,88446.19,West,Corporate,6.05,1
+C00456,69,63296.76,North,Small Business,3.29,0
+C00457,22,49026.86,South,Retail,3.04,0
+C00458,65,56274.63,South,Retail,7.3,0
+C00459,68,66350.13,West,Small Business,2.55,1
+C00460,25,91211.49,East,Retail,3.22,1
+C00461,45,59010.38,East,Corporate,1.45,0
+C00462,69,66759.83,North,Retail,5.12,1
+C00463,57,60449.48,North,Small Business,7.2,0
+C00464,59,62955.4,north,Small Business,8.39,0
+C00465,55,,South,Small Business,1.47,0
+C00466,43,62845.45,North,Retail,8.51,0
+C00467,65,78507.26,South,Corporate,4.43,1
+C00468,32,59029.99,South,Retail,4.46,0
+C00469,66,46950.3,West,Corporate,7.11,0
+C00470,66,50105.61,East,Retail,6.42,0
+C00471,64,22675.09,South,Small Business,6.91,0
+C00472,35,50126.27,West,Retail,9.35,0
+C00473,31,57977.99,East,Small Business,6.52,0
+C00474,60,49401.59,East,Small Business,1.69,0
+C00475,36,71058.79,South,Retail,4.94,1
+C00476,24,43625.83,East,Corporate,1.95,0
+C00477,49,63119.41,West,Corporate,3.5,0
+C00478,32,84634.14,East,Corporate,2.64,1
+C00479,33,42002.1,North,Corporate,6.01,0
+C00480,25,55616.17,West,Small Business,7.58,0
+C00481,26,73410.74,East,Small Business,4.42,1
+C00482,33,52549.34,East,Corporate,7.77,0
+C00483,35,42506.43,South,Retail,6.92,0
+C00484,47,,South,Corporate,3.13,0
+C00485,61,70983.52,West,Corporate,8.6,1
+C00486,57,56799.12,South,Retail,3.78,0
+C00487,37,65069.01,East,Small Business,8.46,1
+C00488,60,56244.02,North,Small Business,4.56,0
+C00489,58,66774.16,north,Corporate,4.97,1
+C00490,18,54516.94,West,Corporate,8.05,0
+C00491,28,82278.29,North,Small Business,5.14,1
+C00492,35,56374.52,North,Small Business,9.45,0
+C00493,40,58429.3,East,Corporate,7.99,0
+C00494,51,19447.8,North,Small Business,7.82,0
+C00495,31,,South,Small Business,8.24,0
+C00496,42,76655.23,South,Small Business,6.42,1
+C00497,51,59412.41,North,Retail,9.53,0
+C00498,24,59061.67,East,Retail,3.08,0
+C00499,19,57909.04,South,Small Business,1.35,0
+C00500,66,71094.8,East,Corporate,8.72,1
+C00501,43,43514.06,South,Retail,6.1,0
+C00502,19,47818.73,South,Small Business,5.82,0
+C00503,32,67102.08,East,Small Business,5.95,1
+C00504,57,55985.38,West,Retail,8.49,0
+C00505,34,49500.12,West,Retail,1.79,0
+C00506,43,43988.33,West,Corporate,4.04,0
+C00507,29,44885.99,South,Corporate,6.97,0
+C00508,69,45406.19,West,Retail,4.98,0
+C00509,20,89061.82,West,Small Business,2.95,1
+C00510,38,57659.4,West,Retail,7.84,0
+C00511,69,85284.98,East,Corporate,4.68,1
+C00512,33,65125.51,South,Retail,8.45,1
+C00513,47,83516.94,North,Small Business,6.77,1
+C00514,46,47107.5,north,Corporate,4.04,0
+C00515,64,44966.74,East,Corporate,3.16,0
+C00516,64,48713.47,East,Retail,2.27,0
+C00517,49,54367.59,West,Small Business,7.64,0
+C00518,54,,South,Corporate,1.31,0
+C00519,61,73394.31,North,Small Business,3.6,1
+C00520,49,87444.3,South,Small Business,4.7,1
+C00521,19,83096.11,West,Corporate,1.21,1
+C00522,48,76588.57,East,Retail,2.16,1
+C00523,38,45715.25,South,Small Business,3.28,0
+C00524,41,49845.07,West,Small Business,2.13,0
+C00525,57,70255.09,north,Retail,6.95,1
+C00526,59,59168.29,East,Retail,6.85,0
+C00527,62,76093.3,East,Small Business,7.61,1
+C00528,51,64881.55,West,Corporate,6.35,0
+C00529,29,53731.36,North,Corporate,1.73,0
+C00530,51,29612.88,West,Small Business,6.68,0
+C00531,18,77918.45,South,Small Business,6.7,1
+C00532,31,73810.88,South,Retail,8.25,1
+C00533,54,84332.9,West,Retail,1.62,1
+C00534,31,89267.13,North,Corporate,2.15,1
+C00535,51,,West,Corporate,7.43,0
+C00536,53,71578.8,South,Corporate,8.06,1
+C00537,53,36117.85,North,Corporate,6.23,0
+C00538,40,73112.65,West,Retail,3.45,1
+C00539,22,77801.02,South,Small Business,1.15,1
+C00540,23,81545.03,West,Retail,6.99,1
+C00541,31,58749.1,North,Retail,9.05,0
+C00542,40,12182.83,West,Small Business,3.69,0
+C00543,60,40537.36,South,Corporate,5.86,0
+C00544,57,48632.16,North,Small Business,8.41,0
+C00545,22,47074.45,North,Small Business,4.42,0
+C00546,62,60450.47,North,Small Business,3.16,0
+C00547,18,50583.99,East,Small Business,9.89,0
+C00548,41,55679.42,East,Retail,1.79,0
+C00549,33,51570.81,East,Retail,4.62,0
+C00550,46,75219.68,West,Corporate,6.33,1
+C00551,65,65078.29,East,Retail,6.21,1
+C00552,29,45931.12,West,Retail,3.31,0
+C00553,56,59998.21,South,Small Business,6.57,0
+C00554,30,76250.11,North,Retail,3.56,1
+C00555,69,81670.69,East,Small Business,3.03,1
+C00556,25,59419.29,South,Corporate,1.97,0
+C00557,43,44144.14,North,Small Business,8.49,0
+C00558,68,,West,Small Business,5.9,0
+C00559,31,58886.3,East,Corporate,5.71,0
+C00560,36,57536.94,West,Corporate,3.27,0
+C00561,55,,East,Small Business,2.22,0
+C00562,64,66402.4,West,Small Business,6.77,1
+C00563,21,68981.09,South,Small Business,9.47,1
+C00564,54,46196.42,South,Retail,3.84,0
+C00565,30,71492.94,North,Corporate,6.65,1
+C00566,49,75156.21,North,Small Business,5.09,1
+C00567,28,72271.91,North,Small Business,3.86,1
+C00568,60,28397.24,East,Retail,4.4,0
+C00569,46,61178.66,South,Small Business,6.92,0
+C00570,34,28068.99,East,Corporate,4.19,0
+C00571,46,57954.92,North,Small Business,1.0,0
+C00572,64,75905.94,North,Corporate,6.83,1
+C00573,55,25876.7,East,Corporate,2.22,0
+C00574,66,42096.87,North,Corporate,5.3,0
+C00575,24,45047.74,East,Retail,2.14,0
+C00576,51,60971.4,West,Retail,6.58,0
+C00577,43,48460.35,West,Retail,3.29,0
+C00578,53,,South,Small Business,7.11,0
+C00579,49,56935.57,West,Retail,2.29,0
+C00580,64,72058.79,East,Small Business,4.34,1
+C00581,54,67583.84,West,Corporate,1.72,1
+C00582,28,82336.7,South,Corporate,4.24,1
+C00583,43,62932.23,North,Small Business,8.88,0
+C00584,40,58517.32,South,Retail,4.55,0
+C00585,61,58479.33,North,Corporate,6.23,0
+C00586,54,52608.41,South,Retail,9.06,0
+C00587,27,49875.99,East,Corporate,6.8,0
+C00588,61,53953.86,South,Corporate,6.4,0
+C00589,60,84275.72,South,Retail,8.52,1
+C00590,48,56084.31,South,Small Business,8.44,0
+C00591,35,60391.91,West,Corporate,2.96,0
+C00592,23,33976.09,South,Retail,5.01,0
+C00593,38,67833.76,South,Small Business,6.45,1
+C00594,45,58531.27,East,Small Business,5.31,0
+C00595,62,66512.13,North,Corporate,3.55,1
+C00596,27,66407.01,East,Small Business,4.36,1
+C00597,24,41755.11,East,Corporate,2.82,0
+C00598,32,56847.5,East,Corporate,4.47,0
+C00599,55,16058.27,West,Small Business,2.75,0
+C00600,64,90794.58,West,Small Business,1.56,1
+C00601,62,75833.17,East,Retail,6.02,1
+C00602,30,101260.85,North,Retail,9.26,1
+C00603,24,91555.1,North,Corporate,9.51,1
+C00604,63,68945.96,West,Retail,1.69,1
+C00605,29,71774.86,West,Retail,1.53,1
+C00606,23,76744.13,East,Retail,9.54,1
+C00607,35,74552.95,East,Retail,1.5,1
+C00608,44,41925.97,West,Small Business,4.72,0
+C00609,49,61655.84,West,Small Business,4.54,0
+C00610,30,67611.31,North,Retail,1.46,1
+C00611,35,69311.21,East,Retail,5.28,1
+C00612,29,75602.83,East,Retail,3.53,1
+C00613,28,53066.14,South,Corporate,9.65,0
+C00614,62,73614.27,West,Retail,6.68,1
+C00615,60,51038.65,East,Small Business,4.35,0
+C00616,45,76168.53,East,Retail,2.63,1
+C00617,54,48066.64,East,Corporate,4.62,0
+C00618,40,66365.91,West,Corporate,1.53,1
+C00619,45,45515.03,South,Small Business,9.54,0
+C00620,38,84437.5,South,Retail,9.92,1
+C00621,18,39625.05,East,Small Business,7.31,0
+C00622,49,44951.79,South,Retail,6.34,0
+C00623,40,71149.68,East,Small Business,3.84,1
+C00624,61,41677.57,South,Small Business,8.45,0
+C00625,68,78070.12,West,Small Business,3.35,1
+C00626,26,50638.52,North,Retail,4.71,0
+C00627,38,70305.99,North,Retail,2.2,1
+C00628,54,81998.11,South,Retail,1.55,1
+C00629,45,32288.87,South,Retail,5.47,0
+C00630,55,61793.35,South,Retail,3.87,0
+C00631,19,46631.72,South,Retail,4.25,0
+C00632,41,59072.4,North,Small Business,9.07,0
+C00633,53,59344.99,South,Small Business,6.29,0
+C00634,33,33165.16,South,Retail,8.29,0
+C00635,36,36982.8,North,Retail,3.95,0
+C00636,50,72581.43,South,Small Business,4.46,1
+C00637,42,91871.57,South,Corporate,6.54,1
+C00638,65,79970.09,East,Small Business,7.51,1
+C00639,27,37662.8,West,Retail,8.31,0
+C00640,32,61411.86,West,Small Business,8.77,0
+C00641,62,58389.68,West,Small Business,6.97,0
+C00642,19,74991.29,North,Retail,1.17,1
+C00643,62,,West,Small Business,1.44,0
+C00644,63,75107.0,West,Retail,2.24,1
+C00645,28,52892.03,North,Retail,7.07,0
+C00646,27,54513.0,West,Retail,7.84,0
+C00647,19,67129.07,East,Small Business,1.75,1
+C00648,46,62980.44,South,Corporate,8.04,0
+C00649,48,45212.94,South,Retail,7.56,0
+C00650,56,55737.67,West,Corporate,7.54,0
+C00651,20,49691.6,South,Retail,3.09,0
+C00652,36,33308.56,South,Small Business,9.29,0
+C00653,41,67263.86,West,Small Business,7.89,1
+C00654,31,68006.19,North,Small Business,9.61,1
+C00655,24,55993.1,East,Corporate,3.85,0
+C00656,69,66947.03,East,Corporate,5.91,1
+C00657,62,51525.27,West,Corporate,9.51,0
+C00658,46,66348.19,South,Retail,1.48,1
+C00659,63,62407.34,East,Corporate,3.81,0
+C00660,20,93187.97,East,Corporate,1.05,1
+C00661,68,58066.51,West,Small Business,7.77,0
+C00662,25,65109.81,East,Corporate,8.73,1
+C00663,26,60509.51,West,Corporate,3.27,0
+C00664,20,62533.84,South,Retail,1.48,0
+C00665,44,68087.16,North,Corporate,4.62,1
+C00666,54,74675.55,North,Small Business,6.44,1
+C00667,52,48520.8,West,Retail,9.3,0
+C00668,48,24037.52,North,Small Business,6.51,0
+C00669,31,52288.75,East,Small Business,8.76,0
+C00670,25,56874.91,East,Small Business,6.67,0
+C00671,30,74947.87,West,Retail,2.25,1
+C00672,47,49055.03,West,Retail,2.99,0
+C00673,51,38461.36,North,Retail,5.68,0
+C00674,24,40262.76,North,Small Business,5.55,0
+C00675,42,57278.26,South,Retail,6.36,0
+C00676,46,58404.94,West,Retail,4.7,0
+C00677,39,67653.41,South,Retail,2.24,1
+C00678,33,52728.14,South,Small Business,7.77,0
+C00679,38,78295.66,North,Small Business,8.61,1
+C00680,22,71941.39,West,Small Business,1.49,1
+C00681,57,76968.45,South,Retail,5.98,1
+C00682,39,59002.02,West,Corporate,7.68,0
+C00683,46,64825.18,North,Retail,2.07,0
+C00684,21,62520.9,North,Corporate,1.66,0
+C00685,49,45366.44,East,Corporate,1.97,0
+C00686,51,71629.71,East,Corporate,2.71,1
+C00687,66,78792.64,North,Retail,5.0,1
+C00688,56,53276.63,North,Corporate,8.9,0
+C00689,35,56813.57,East,Small Business,5.35,0
+C00690,59,82563.21,East,Corporate,3.24,1
+C00691,18,56396.58,South,Small Business,3.4,0
+C00692,43,73740.77,South,Retail,1.06,1
+C00693,29,39912.57,South,Small Business,1.55,0
+C00694,52,,South,Corporate,4.95,0
+C00695,28,59761.23,North,Corporate,1.96,0
+C00696,48,73740.15,South,Corporate,3.68,1
+C00697,34,76885.39,East,Corporate,9.24,1
+C00698,20,42012.94,West,Small Business,2.11,0
+C00699,61,85647.42,West,Small Business,8.69,1
+C00700,57,57469.17,South,Retail,8.53,0
+C00701,60,60802.84,West,Small Business,8.91,0
+C00702,62,63644.06,West,Corporate,5.9,0
+C00703,24,84630.36,South,Retail,5.02,1
+C00704,29,71304.36,South,Corporate,7.66,1
+C00705,37,48114.47,South,Corporate,8.14,0
+C00706,23,65085.82,North,Retail,1.36,1
+C00707,43,49810.43,East,Corporate,7.61,0
+C00708,53,47635.93,North,Small Business,4.53,0
+C00709,22,66052.03,North,Small Business,6.58,1
+C00710,33,51759.6,South,Retail,4.08,0
+C00711,32,81518.1,North,Retail,5.78,1
+C00712,24,80759.71,East,Corporate,6.63,1
+C00713,35,88349.92,South,Small Business,6.57,1
+C00714,43,70232.04,South,Corporate,8.33,1
+C00715,34,66906.61,East,Corporate,6.08,1
+C00716,29,58907.29,West,Retail,5.73,0
+C00717,44,46673.05,East,Corporate,5.25,0
+C00718,53,69236.68,South,Small Business,4.72,1
+C00719,42,43350.71,South,Retail,6.49,0
+C00720,60,77205.92,North,Corporate,2.82,1
+C00721,41,53220.76,North,Retail,8.64,0
+C00722,49,,north,Corporate,8.31,0
+C00723,21,64792.87,East,Retail,5.99,0
+C00724,62,84804.26,North,Corporate,7.56,1
+C00725,37,56306.37,North,Corporate,7.84,0
+C00726,48,68935.53,West,Corporate,5.52,1
+C00727,64,56395.08,North,Small Business,7.7,0
+C00728,69,34951.98,South,Retail,7.22,0
+C00729,63,59038.83,North,Small Business,4.16,0
+C00730,59,68044.36,East,Retail,3.69,1
+C00731,29,51883.12,East,Retail,8.64,0
+C00732,52,76003.05,West,Retail,6.41,1
+C00733,63,71771.72,North,Corporate,4.56,1
+C00734,66,69322.83,North,Corporate,1.56,1
+C00735,33,84221.68,West,Corporate,6.71,1
+C00736,33,55169.58,East,Retail,2.97,0
+C00737,43,50183.97,South,Retail,5.34,0
+C00738,20,46040.04,West,Retail,4.56,0
+C00739,19,46737.62,West,Corporate,5.73,0
+C00740,30,,South,Corporate,5.02,0
+C00741,43,18734.8,West,Corporate,1.2,0
+C00742,40,66355.1,East,Retail,6.97,1
+C00743,65,,East,Corporate,6.4,0
+C00744,29,62583.82,West,Corporate,8.7,0
+C00745,31,32093.28,North,Corporate,1.62,0
+C00746,53,72963.65,South,Corporate,3.95,1
+C00747,47,44655.82,West,Small Business,4.06,0
+C00748,44,51330.22,North,Small Business,1.76,0
+C00749,24,55065.84,West,Small Business,2.49,0
+C00750,40,65389.54,North,Retail,2.07,1
+C00751,20,51290.28,north,Retail,8.53,0
+C00752,55,50829.22,West,Corporate,7.0,0
+C00753,52,43700.62,South,Corporate,5.75,0
+C00754,63,46558.27,South,Retail,8.39,0
+C00755,34,,East,Retail,6.08,0
+C00756,21,49427.67,South,Retail,7.37,0
+C00757,38,65213.42,North,Small Business,9.3,1
+C00758,34,61300.47,South,Corporate,2.65,0
+C00759,68,53265.02,West,Retail,4.67,0
+C00760,28,59818.77,West,Retail,7.55,0
+C00761,38,52171.4,North,Corporate,4.93,0
+C00762,31,67603.16,West,Corporate,7.75,1
+C00763,39,30367.68,East,Small Business,5.52,0
+C00764,18,71266.49,South,Corporate,8.53,1
+C00765,61,72744.29,South,Corporate,1.45,1
+C00766,68,53342.12,South,Corporate,5.37,0
+C00767,27,42243.36,South,Retail,3.53,0
+C00768,56,,West,Retail,4.86,0
+C00769,45,49274.05,South,Retail,7.92,0
+C00770,49,50851.49,South,Corporate,5.2,0
+C00771,40,58813.99,North,Corporate,3.36,0
+C00772,50,51313.14,North,Corporate,6.55,0
+C00773,68,85268.7,South,Corporate,3.84,1
+C00774,47,87658.48,West,Retail,1.9,1
+C00775,69,70605.69,North,Retail,3.57,1
+C00776,36,101229.67,South,Retail,3.61,1
+C00777,40,48789.33,West,Corporate,1.51,0
+C00778,25,52029.54,South,Retail,5.93,0
+C00779,43,35761.7,North,Small Business,8.67,0
+C00780,29,64494.72,South,Small Business,7.69,0
+C00781,35,80550.65,South,Small Business,7.15,1
+C00782,43,35506.83,South,Small Business,6.24,0
+C00783,26,74429.81,North,Small Business,9.09,1
+C00784,30,56444.82,North,Retail,3.85,0
+C00785,32,,East,Small Business,2.66,0
+C00786,38,76910.61,South,Retail,2.88,1
+C00787,61,53310.84,North,Retail,5.22,0
+C00788,62,61697.11,North,Small Business,8.63,0
+C00789,30,55649.44,North,Small Business,4.83,0
+C00790,33,54575.51,East,Retail,3.86,0
+C00791,61,79667.51,West,Retail,1.78,1
+C00792,29,56635.22,North,Corporate,6.71,0
+C00793,45,57302.75,South,Corporate,7.76,0
+C00794,59,62426.73,North,Corporate,4.27,0
+C00795,59,,East,Retail,7.89,0
+C00796,68,43885.42,South,Small Business,8.18,0
+C00797,55,47054.48,South,Small Business,2.83,0
+C00798,21,35656.0,East,Corporate,1.42,0
+C00799,53,59060.41,West,Retail,4.91,0
+C00800,35,63646.85,East,Small Business,5.88,0
+C00801,51,51177.68,North,Small Business,5.0,0
+C00802,32,81273.58,West,Corporate,9.32,1
+C00803,69,56359.52,East,Corporate,2.06,0
+C00804,44,31649.85,West,Small Business,6.19,0
+C00805,56,69542.33,East,Corporate,9.41,1
+C00806,57,35647.0,East,Corporate,1.35,0
+C00807,48,,north,Corporate,8.71,0
+C00808,66,76330.45,West,Corporate,6.24,1
+C00809,64,53254.87,West,Corporate,4.47,0
+C00810,53,85978.49,East,Corporate,7.2,1
+C00811,67,59093.94,North,Small Business,1.27,0
+C00812,21,76916.7,East,Small Business,2.99,1
+C00813,37,32070.75,South,Retail,8.72,0
+C00814,47,61684.82,North,Corporate,2.58,0
+C00815,53,,North,Small Business,1.09,0
+C00816,21,49320.4,East,Corporate,8.38,0
+C00817,27,30297.74,East,Retail,5.05,0
+C00818,27,52474.07,South,Small Business,9.85,0
+C00819,68,44008.0,North,Small Business,6.72,0
+C00820,47,60918.19,North,Retail,1.2,0
+C00821,22,70131.14,East,Small Business,3.61,1
+C00822,67,58010.35,North,Retail,7.86,0
+C00823,50,80882.46,West,Corporate,3.26,1
+C00824,48,64894.05,north,Retail,9.05,0
+C00825,44,70157.73,West,Corporate,5.58,1
+C00826,37,62737.94,South,Corporate,9.01,0
+C00827,22,63654.86,South,Retail,3.51,0
+C00828,50,43646.87,North,Retail,1.49,0
+C00829,38,44304.59,North,Small Business,4.22,0
+C00830,62,27760.3,East,Retail,8.83,0
+C00831,65,57604.72,North,Retail,9.19,0
+C00832,34,66450.99,North,Corporate,9.44,1
+C00833,24,89314.46,East,Retail,1.13,1
+C00834,64,78669.79,South,Small Business,7.2,1
+C00835,36,64866.88,North,Small Business,4.65,0
+C00836,62,32942.06,West,Corporate,2.16,0
+C00837,47,97673.09,North,Small Business,1.93,1
+C00838,22,59391.74,South,Corporate,9.91,0
+C00839,29,62660.69,East,Small Business,4.04,0
+C00840,37,28501.9,North,Retail,3.02,0
+C00841,18,51657.72,West,Corporate,2.64,0
+C00842,39,53821.41,South,Corporate,1.72,0
+C00843,45,75855.24,South,Small Business,7.46,1
+C00844,24,62981.92,West,Corporate,2.18,0
+C00845,26,54285.05,East,Small Business,9.62,0
+C00846,22,68194.1,South,Corporate,9.06,1
+C00847,37,70816.39,South,Small Business,2.56,1
+C00848,48,55078.27,East,Retail,1.46,0
+C00849,21,,East,Retail,1.43,0
+C00850,59,63645.18,North,Corporate,1.06,0
+C00851,29,82834.46,East,Corporate,6.77,1
+C00852,34,61151.01,West,Small Business,7.13,0
+C00853,48,54687.71,East,Small Business,1.07,0
+C00854,67,75607.62,South,Retail,7.66,1
+C00855,51,,East,Small Business,2.2,0
+C00856,27,78076.43,north,Small Business,1.62,1
+C00857,46,78099.12,West,Corporate,2.13,1
+C00858,56,37092.48,West,Retail,3.44,0
+C00859,36,84746.76,East,Retail,4.3,1
+C00860,41,49222.79,South,Small Business,4.77,0
+C00861,21,42942.32,West,Retail,8.0,0
+C00862,21,46607.56,South,Corporate,1.11,0
+C00863,23,43087.56,East,Retail,7.31,0
+C00864,30,76918.63,West,Corporate,3.96,1
+C00865,60,57524.89,East,Small Business,8.76,0
+C00866,29,76240.25,West,Retail,7.24,1
+C00867,56,77104.7,South,Retail,4.57,1
+C00868,33,97483.01,West,Retail,1.02,1
+C00869,22,86868.98,North,Corporate,6.69,1
+C00870,51,62210.27,East,Small Business,3.1,0
+C00871,24,66085.79,East,Retail,1.47,1
+C00872,33,57116.74,North,Small Business,3.68,0
+C00873,62,66063.19,East,Corporate,7.98,1
+C00874,19,70738.09,West,Corporate,6.66,1
+C00875,32,75526.93,North,Retail,6.82,1
+C00876,39,,South,Small Business,3.27,0
+C00877,35,49912.72,South,Small Business,3.63,0
+C00878,27,,East,Corporate,4.89,0
+C00879,61,52494.21,South,Corporate,2.31,0
+C00880,45,66577.53,South,Corporate,7.0,1
+C00881,33,64429.2,North,Small Business,8.45,0
+C00882,41,48352.51,North,Small Business,3.84,0
+C00883,62,53906.36,South,Retail,9.49,0
+C00884,51,50747.54,North,Small Business,5.09,0
+C00885,65,64865.1,North,Corporate,6.75,0
+C00886,68,52009.12,East,Corporate,3.37,0
+C00887,46,76200.84,North,Small Business,9.77,1
+C00888,63,74141.83,South,Small Business,1.83,1
+C00889,64,79955.73,East,Small Business,6.85,1
+C00890,56,,North,Retail,7.77,0
+C00891,37,,South,Corporate,7.31,0
+C00892,27,54225.86,North,Retail,4.84,0
+C00893,55,63006.89,West,Corporate,9.38,0
+C00894,64,69133.58,South,Retail,9.83,1
+C00895,22,80545.52,North,Corporate,7.44,1
+C00896,61,43709.18,South,Retail,2.13,0
+C00897,33,61537.27,West,Small Business,9.02,0
+C00898,33,52757.59,East,Small Business,1.69,0
+C00899,44,51703.65,East,Corporate,8.55,0
+C00900,28,70437.96,West,Retail,5.96,1
+C00901,55,68278.29,West,Corporate,6.45,1
+C00902,67,,North,Retail,5.92,0
+C00903,32,76625.33,South,Retail,2.66,1
+C00904,39,72071.56,East,Small Business,4.57,1
+C00905,46,79014.77,North,Retail,4.15,1
+C00906,44,64330.92,West,Retail,1.24,0
+C00907,68,70593.87,West,Small Business,7.18,1
+C00908,59,52499.23,East,Corporate,4.17,0
+C00909,44,43553.98,North,Retail,6.58,0
+C00910,40,76418.64,South,Corporate,2.66,1
+C00911,20,35448.38,North,Corporate,1.64,0
+C00912,35,74130.04,East,Corporate,1.51,1
+C00913,54,69705.16,West,Retail,1.17,1
+C00914,18,59940.28,North,Retail,6.22,0
+C00915,64,69839.57,West,Corporate,6.59,1
+C00916,62,70354.0,South,Retail,2.91,1
+C00917,27,60058.21,West,Small Business,6.81,0
+C00918,32,84332.62,West,Small Business,7.15,1
+C00919,28,59620.69,West,Small Business,9.35,0
+C00920,30,79139.66,South,Small Business,3.63,1
+C00921,56,57619.9,West,Small Business,8.91,0
+C00922,50,78785.51,North,Small Business,2.85,1
+C00923,24,63709.69,North,Retail,3.71,0
+C00924,52,37506.13,West,Corporate,1.84,0
+C00925,42,95977.48,North,Small Business,2.17,1
+C00926,60,100111.56,north,Retail,1.88,1
+C00927,53,57697.33,South,Corporate,2.12,0
+C00928,35,56384.19,north,Corporate,7.09,0
+C00929,61,39181.97,South,Corporate,5.1,0
+C00930,33,71457.91,West,Small Business,2.27,1
+C00931,48,76357.27,East,Retail,9.87,1
+C00932,56,77998.13,South,Small Business,8.98,1
+C00933,19,63250.25,North,Corporate,4.45,0
+C00934,29,55449.75,North,Small Business,2.96,0
+C00935,29,76037.16,South,Corporate,9.46,1
+C00936,22,48398.44,North,Corporate,7.64,0
+C00937,50,75935.0,South,Retail,1.03,1
+C00938,67,58900.42,South,Retail,3.31,0
+C00939,59,58809.17,South,Corporate,2.31,0
+C00940,61,55493.01,East,Small Business,6.87,0
+C00941,68,,South,Retail,6.22,0
+C00942,37,62841.09,South,Retail,8.25,0
+C00943,30,72787.03,West,Retail,1.76,1
+C00944,51,41562.25,West,Retail,2.22,0
+C00945,48,52392.78,North,Corporate,5.7,0
+C00946,67,57297.4,West,Retail,8.34,0
+C00947,47,56992.19,East,Corporate,5.63,0
+C00948,68,,North,Small Business,9.88,0
+C00949,40,54919.74,North,Small Business,6.23,0
+C00950,19,57417.84,West,Corporate,3.75,0
+C00951,22,86641.31,West,Small Business,4.25,1
+C00952,51,53088.37,North,Corporate,1.64,0
+C00953,23,34603.73,East,Corporate,6.71,0
+C00954,41,70436.06,North,Corporate,8.17,1
+C00955,66,56760.59,South,Small Business,6.67,0
+C00956,43,74062.16,South,Retail,6.64,1
+C00957,69,49001.02,East,Retail,3.88,0
+C00958,25,49952.95,South,Retail,9.63,0
+C00959,68,81629.18,West,Small Business,1.08,1
+C00960,57,52314.39,West,Corporate,4.92,0
+C00961,36,56406.12,East,Retail,2.31,0
+C00962,54,60131.45,East,Retail,3.1,0
+C00963,40,42673.66,West,Retail,4.96,0
+C00964,22,53701.45,North,Corporate,6.38,0
+C00965,32,65795.74,East,Retail,5.39,1
+C00966,67,72566.46,North,Corporate,9.21,1
+C00967,30,59893.15,North,Retail,6.09,0
+C00968,66,62672.61,South,Corporate,9.14,0
+C00969,59,69559.87,West,Corporate,1.74,1
+C00970,46,84244.5,South,Corporate,8.49,1
+C00971,23,71181.68,South,Corporate,9.09,1
+C00972,65,59661.34,East,Corporate,9.37,0
+C00973,38,82229.41,East,Retail,2.48,1
+C00974,19,,North,Retail,9.4,0
+C00975,51,,South,Small Business,7.0,0
+C00976,65,45949.6,West,Retail,7.43,0
+C00977,35,41129.63,South,Retail,9.76,0
+C00978,45,70974.02,East,Retail,9.03,1
+C00979,30,53265.39,West,Small Business,5.8,0
+C00980,28,60129.75,East,Corporate,2.91,0
+C00981,52,53893.4,East,Corporate,9.33,0
+C00982,33,61801.78,South,Retail,9.69,0
+C00983,68,74269.59,South,Retail,2.44,1
+C00984,31,67903.47,West,Retail,1.28,1
+C00985,20,71831.77,South,Small Business,2.21,1
+C00986,18,63946.21,north,Small Business,9.52,0
+C00987,23,51728.14,West,Retail,7.05,0
+C00988,57,60361.55,South,Small Business,8.43,0
+C00989,29,63294.86,East,Corporate,2.33,0
+C00990,38,37821.32,East,Retail,1.45,0
+C00991,66,65720.42,East,Corporate,4.6,1
+C00992,68,58486.72,West,Small Business,5.52,0
+C00993,19,61833.6,South,Retail,9.58,0
+C00994,38,51686.56,North,Small Business,8.36,0
+C00995,37,,West,Corporate,5.37,0
+C00996,20,89952.75,North,Retail,2.55,1
+C00997,30,67378.1,North,Small Business,6.79,1
+C00998,47,40355.5,North,Corporate,6.64,0
+C00999,30,69243.39,North,Corporate,8.8,1
+C01000,41,62602.3,South,Corporate,3.35,0
+C01001,30,68770.25,North,Corporate,1.14,1
+C01002,67,54446.62,North,Small Business,9.13,0
+C01003,32,69916.54,South,Retail,7.87,1
+C01004,35,41028.49,north,Corporate,8.8,0
+C01005,43,44868.87,North,Small Business,8.68,0
+C01006,32,58075.52,North,Retail,8.33,0
+C01007,34,26787.39,South,Corporate,5.76,0
+C01008,47,53896.25,East,Retail,5.44,0
+C01009,30,51479.16,North,Small Business,5.99,0
+C01010,26,76127.71,North,Retail,7.53,1
+C01011,36,70964.38,North,Corporate,4.01,1
+C01012,21,50240.1,South,Corporate,7.96,0
+C01013,28,46732.45,North,Corporate,3.76,0
+C01014,33,52191.09,East,Small Business,5.9,0
+C01015,57,56440.12,North,Corporate,3.96,0
+C01016,65,52615.68,North,Retail,5.48,0
+C01017,44,48914.57,West,Retail,1.19,0
+C01018,20,69784.96,West,Corporate,3.57,1
+C01019,18,44006.75,North,Corporate,7.15,0
+C01020,24,95685.14,South,Small Business,7.5,1
+C01021,41,50970.5,West,Retail,5.67,0
+C01022,53,47129.84,West,Corporate,2.76,0
+C01023,62,83601.18,East,Corporate,2.15,1
+C01024,54,68372.05,South,Retail,6.93,1
+C01025,25,73031.59,East,Corporate,2.02,1
+C01026,52,42204.95,East,Small Business,8.53,0
+C01027,66,60758.05,East,Small Business,2.36,0
+C01028,48,82347.04,East,Retail,2.81,1
+C01029,46,47904.35,South,Small Business,6.75,0
+C01030,39,61135.42,South,Corporate,6.74,0
+C01031,43,29183.4,South,Small Business,7.66,0
+C01032,28,95296.39,North,Corporate,2.51,1
+C01033,67,58860.43,North,Small Business,2.57,0
+C01034,61,54412.62,West,Small Business,1.45,0
+C01035,31,90305.39,North,Retail,7.71,1
+C01036,32,60901.5,East,Corporate,5.44,0
+C01037,69,44301.94,North,Retail,3.29,0
+C01038,31,47566.25,West,Retail,2.84,0
+C01039,52,,West,Retail,8.53,0
+C01040,51,52168.03,South,Corporate,1.09,0
+C01041,29,53203.39,South,Small Business,6.34,0
+C01042,34,,West,Small Business,1.99,0
+C01043,31,49779.3,South,Small Business,2.31,0
+C01044,54,,West,Corporate,8.04,0
+C01045,64,60803.11,South,Small Business,7.91,0
+C01046,59,74574.14,West,Small Business,4.03,1
+C01047,35,69869.04,South,Retail,7.23,1
+C01048,21,,East,Retail,1.94,0
+C01049,51,54121.85,East,Corporate,2.36,0
+C01050,51,44733.54,East,Small Business,4.66,0
+C01051,56,47821.18,north,Retail,2.09,0
+C01052,21,55882.32,north,Corporate,4.19,0
+C01053,42,72406.73,East,Small Business,4.45,1
+C01054,37,62369.61,East,Small Business,4.78,0
+C01055,40,61468.71,South,Retail,7.81,0
+C01056,35,46514.81,North,Retail,8.18,0
+C01057,69,61812.93,East,Small Business,3.58,0
+C01058,44,46968.12,West,Corporate,4.6,0
+C01059,68,58914.04,South,Small Business,2.72,0
+C01060,35,75392.13,East,Corporate,1.46,1
+C01061,23,55641.02,North,Small Business,4.15,0
+C01062,26,51088.27,East,Corporate,5.07,0
+C01063,27,,North,Corporate,4.28,0
+C01064,64,75600.93,South,Small Business,8.44,1
+C01065,36,49053.37,West,Retail,5.0,0
+C01066,49,60222.29,North,Retail,4.89,0
+C01067,59,42985.79,East,Corporate,9.57,0
+C01068,37,57723.99,South,Retail,3.64,0
+C01069,63,45908.05,East,Small Business,5.37,0
+C01070,66,76788.67,South,Corporate,6.09,1
+C01071,54,37919.44,West,Small Business,8.28,0
+C01072,34,39392.48,North,Small Business,5.35,0
+C01073,33,43341.66,North,Retail,6.06,0
+C01074,38,40625.48,North,Corporate,7.17,0
+C01075,68,105220.68,North,Small Business,1.73,1
+C01076,27,69398.92,North,Retail,3.84,1
+C01077,28,50139.41,North,Retail,7.45,0
+C01078,53,59265.52,East,Retail,3.19,0
+C01079,56,56564.2,South,Retail,3.58,0
+C01080,52,44970.65,North,Small Business,6.72,0
+C01081,40,48986.5,South,Retail,9.82,0
+C01082,50,57877.06,South,Retail,9.99,0
+C01083,56,51668.33,East,Small Business,9.29,0
+C01084,65,60327.99,South,Retail,5.12,0
+C01085,62,44780.45,North,Retail,5.87,0
+C01086,48,50123.35,North,Corporate,6.24,0
+C01087,44,60919.91,North,Corporate,6.98,0
+C01088,26,94592.29,East,Corporate,2.88,1
+C01089,30,69176.36,North,Corporate,9.01,1
+C01090,22,84570.7,North,Small Business,1.25,1
+C01091,52,64649.53,West,Small Business,9.93,0
+C01092,56,67827.68,North,Small Business,6.08,1
+C01093,25,82620.18,South,Retail,9.92,1
+C01094,65,52193.42,South,Corporate,8.64,0
+C01095,25,76827.92,North,Small Business,8.17,1
+C01096,67,57199.82,West,Retail,6.94,0
+C01097,25,61941.93,North,Corporate,2.87,0
+C01098,29,,East,Retail,2.13,0
+C01099,56,31468.96,North,Small Business,7.86,0
+C01100,49,41251.66,South,Corporate,8.99,0
+C01101,69,42316.15,South,Retail,3.41,0
+C01102,43,56704.96,West,Corporate,7.61,0
+C01103,27,60619.31,West,Corporate,6.06,0
+C01104,22,75557.38,East,Retail,9.59,1
+C01105,46,,West,Small Business,6.91,0
+C01106,31,63322.4,East,Retail,5.85,0
+C01107,28,43396.64,East,Corporate,6.44,0
+C01108,67,89441.94,East,Corporate,4.87,1
+C01109,40,39120.62,South,Corporate,9.84,0
+C01110,61,85561.53,South,Retail,9.53,1
+C01111,52,48497.04,East,Retail,7.9,0
+C01112,40,61021.08,West,Corporate,5.04,0
+C01113,23,60487.5,West,Corporate,7.75,0
+C01114,57,72083.91,East,Small Business,5.34,1
+C01115,68,65977.46,West,Corporate,5.43,1
+C01116,60,58803.23,East,Retail,3.49,0
+C01117,62,48977.94,North,Retail,9.69,0
+C01118,54,35149.61,West,Small Business,1.23,0
+C01119,59,,North,Small Business,5.27,0
+C01120,28,69155.61,North,Small Business,8.27,1
+C01121,53,,East,Corporate,9.31,0
+C01122,41,,West,Retail,8.61,0
+C01123,24,80225.8,East,Small Business,5.83,1
+C01124,51,70680.48,East,Small Business,5.25,1
+C01125,33,69475.77,North,Small Business,1.72,1
+C01126,25,64093.74,North,Retail,5.99,0
+C01127,28,58135.71,South,Small Business,8.99,0
+C01128,56,56829.24,South,Small Business,6.61,0
+C01129,23,,North,Retail,6.03,0
+C01130,68,33678.17,South,Corporate,7.69,0
+C01131,28,64095.16,West,Retail,1.08,0
+C01132,35,28880.4,North,Corporate,3.57,0
+C01133,34,45119.35,East,Corporate,2.39,0
+C01134,53,51694.57,South,Retail,6.04,0
+C01135,54,78392.35,East,Retail,1.71,1
+C01136,53,48196.03,North,Retail,9.77,0
+C01137,63,56990.41,West,Small Business,8.94,0
+C01138,50,65512.66,South,Small Business,8.86,1
+C01139,27,46230.36,East,Retail,1.44,0
+C01140,43,85967.54,North,Small Business,4.21,1
+C01141,31,46646.18,East,Retail,7.74,0
+C01142,65,37163.78,East,Corporate,1.26,0
+C01143,61,62241.84,North,Retail,6.37,0
+C01144,37,71561.25,West,Small Business,5.68,1
+C01145,51,70865.32,East,Small Business,8.83,1
+C01146,62,60917.35,North,Corporate,7.06,0
+C01147,67,47335.07,North,Small Business,5.52,0
+C01148,68,,West,Corporate,4.66,0
+C01149,52,79811.25,West,Corporate,8.27,1
+C01150,28,62540.63,West,Corporate,7.69,0
+C01151,24,44159.54,North,Retail,5.72,0
+C01152,41,56145.82,North,Small Business,6.29,0
+C01153,58,85411.47,East,Small Business,6.42,1
+C01154,23,46710.4,East,Small Business,5.48,0
+C01155,62,72290.6,East,Small Business,8.78,1
+C01156,69,66358.34,North,Corporate,3.15,1
+C01157,51,42177.77,South,Corporate,7.56,0
+C01158,18,61077.49,South,Retail,8.28,0
+C01159,38,66918.46,West,Small Business,9.39,1
+C01160,37,64332.97,South,Retail,2.17,0
+C01161,50,73121.16,East,Small Business,6.14,1
+C01162,33,65144.45,West,Retail,3.28,1
+C01163,43,65276.49,East,Small Business,5.65,1
+C01164,34,67857.11,South,Corporate,4.35,1
+C01165,45,44427.63,South,Small Business,8.23,0
+C01166,29,69684.44,East,Corporate,8.23,1
+C01167,49,87072.52,North,Retail,8.28,1
+C01168,19,57816.65,North,Corporate,1.22,0
+C01169,24,37557.62,South,Corporate,8.36,0
+C01170,26,46226.82,West,Retail,3.2,0
+C01171,57,59641.97,West,Corporate,2.96,0
+C01172,59,,East,Small Business,4.74,0
+C01173,36,44822.95,West,Retail,6.32,0
+C01174,68,72157.46,North,Small Business,8.45,1
+C01175,54,61171.91,South,Corporate,1.16,0
+C01176,50,52743.41,South,Corporate,5.27,0
+C01177,35,59550.52,West,Retail,6.07,0
+C01178,42,57363.52,North,Corporate,9.0,0
+C01179,41,62627.62,North,Small Business,5.29,0
+C01180,18,45520.85,South,Retail,4.9,0
+C01181,64,67133.83,North,Small Business,1.78,1
+C01182,40,33796.56,West,Retail,2.58,0
+C01183,23,44917.2,East,Corporate,1.58,0
+C01184,51,45356.3,North,Corporate,9.15,0
+C01185,31,96045.27,West,Corporate,3.59,1
+C01186,38,66547.95,West,Corporate,1.45,1
+C01187,29,34471.47,South,Retail,5.08,0
+C01188,35,51579.93,South,Corporate,2.24,0
+C01189,18,,West,Retail,4.6,0
+C01190,40,6269.06,North,Corporate,8.25,0
+C01191,65,30026.39,South,Corporate,2.12,0
+C01192,30,81478.86,North,Retail,5.21,1
+C01193,66,54452.56,South,Retail,6.22,0
+C01194,45,55080.95,South,Small Business,5.82,0
+C01195,48,63782.33,South,Retail,1.9,0
+C01196,48,78915.21,North,Small Business,8.16,1
+C01197,26,49797.46,West,Corporate,9.42,0
+C01198,20,60198.97,North,Corporate,5.34,0
+C01199,27,47599.83,South,Corporate,5.66,0
+C01200,33,71551.55,West,Retail,4.65,1
+C01201,65,55014.68,West,Corporate,9.14,0
+C01202,67,75657.69,East,Small Business,1.95,1
+C01203,28,40039.42,North,Corporate,1.65,0
+C01204,43,27330.48,East,Small Business,9.18,0
+C01205,68,38834.15,West,Small Business,6.71,0
+C01206,43,72047.32,West,Corporate,8.86,1
+C01207,48,60933.9,north,Small Business,4.54,0
+C01208,19,47813.02,north,Retail,9.62,0
+C01209,52,84271.38,West,Corporate,3.96,1
+C01210,58,52443.29,West,Corporate,2.63,0
+C01211,57,77379.16,East,Small Business,9.43,1
+C01212,29,61748.44,North,Retail,2.34,0
+C01213,19,62143.64,North,Corporate,8.51,0
+C01214,31,91976.55,South,Retail,9.07,1
+C01215,57,,East,Small Business,7.87,0
+C01216,61,53676.09,East,Corporate,3.08,0
+C01217,34,52570.99,South,Retail,1.63,0
+C01218,49,78216.31,north,Small Business,6.84,1
+C01219,63,53772.37,East,Corporate,4.71,0
+C01220,61,43106.43,West,Small Business,2.89,0
+C01221,37,62028.11,North,Retail,4.44,0
+C01222,26,75503.46,North,Corporate,3.89,1
+C01223,30,41470.6,West,Small Business,5.01,0
+C01224,30,60629.68,South,Retail,4.44,0
+C01225,39,71879.68,South,Retail,1.04,1
+C01226,32,35169.2,West,Retail,7.87,0
+C01227,47,66804.34,East,Corporate,3.19,1
+C01228,60,48611.21,West,Small Business,5.21,0
+C01229,37,69295.33,North,Retail,7.32,1
+C01230,60,28037.43,North,Small Business,3.87,0
+C01231,47,62012.5,East,Corporate,7.22,0
+C01232,47,,North,Retail,6.94,0
+C01233,24,88010.85,North,Corporate,3.63,1
+C01234,46,75134.69,East,Corporate,8.45,1
+C01235,41,71030.12,South,Retail,8.58,1
+C01236,40,60928.62,North,Small Business,1.36,0
+C01237,25,56593.41,South,Corporate,4.64,0
+C01238,35,57873.64,East,Corporate,4.11,0
+C01239,64,70859.5,East,Retail,4.32,1
+C01240,36,42254.83,North,Retail,4.11,0
+C01241,64,49977.96,South,Retail,3.52,0
+C01242,19,48280.91,East,Small Business,1.19,0
+C01243,33,57311.23,East,Retail,5.96,0
+C01244,18,58349.92,South,Small Business,8.73,0
+C01245,30,57593.71,East,Corporate,6.55,0
+C01246,41,,West,Small Business,7.0,0
+C01247,27,71372.67,North,Small Business,8.53,1
+C01248,35,39900.13,South,Retail,8.77,0
+C01249,42,,West,Retail,2.36,0
+C01250,42,79920.85,East,Retail,8.16,1
+C01251,34,75821.67,North,Retail,9.37,1
+C01252,40,59459.68,North,Corporate,5.17,0
+C01253,33,50632.34,North,Corporate,9.2,0
+C01254,33,71204.71,north,Corporate,3.55,1
+C01255,33,53295.78,East,Small Business,1.31,0
+C01256,51,65060.45,South,Small Business,9.32,1
+C01257,40,45301.12,West,Corporate,1.67,0
+C01258,59,,North,Retail,1.52,0
+C01259,49,62916.15,East,Small Business,3.32,0
+C01260,69,75358.12,East,Retail,5.36,1
+C01261,36,37196.01,North,Small Business,1.82,0
+C01262,69,74221.27,West,Retail,2.14,1
+C01263,61,43434.3,North,Corporate,6.89,0
+C01264,56,42466.51,North,Corporate,1.08,0
+C01265,31,,West,Small Business,1.6,0
+C01266,58,66884.91,South,Corporate,8.93,1
+C01267,56,46705.21,East,Corporate,7.2,0
+C01268,38,70341.5,West,Retail,9.17,1
+C01269,21,50136.29,North,Retail,5.43,0
+C01270,39,65126.87,West,Small Business,4.69,1
+C01271,47,40585.99,South,Small Business,9.2,0
+C01272,25,58738.03,South,Corporate,2.46,0
+C01273,49,72918.11,East,Retail,5.24,1
+C01274,48,71128.32,West,Corporate,9.4,1
+C01275,52,72639.87,South,Retail,1.69,1
+C01276,49,64074.28,West,Small Business,1.94,0
+C01277,48,72438.31,East,Corporate,5.58,1
+C01278,32,51481.66,South,Retail,6.23,0
+C01279,51,16571.73,West,Small Business,6.62,0
+C01280,23,59693.82,South,Corporate,3.18,0
+C01281,30,52295.16,North,Small Business,4.21,0
+C01282,41,75930.03,South,Retail,9.93,1
+C01283,35,60110.44,North,Retail,8.02,0
+C01284,46,37821.8,West,Corporate,5.3,0
+C01285,20,34046.06,North,Corporate,6.45,0
+C01286,52,80008.29,East,Retail,7.82,1
+C01287,18,66766.32,East,Retail,3.02,1
+C01288,32,52998.81,West,Corporate,9.53,0
+C01289,64,60848.7,South,Retail,9.41,0
+C01290,47,43187.82,North,Small Business,4.95,0
+C01291,36,78827.19,West,Corporate,2.54,1
+C01292,65,52534.91,North,Corporate,2.33,0
+C01293,53,66634.92,North,Small Business,5.87,1
+C01294,43,60681.64,South,Retail,8.73,0
+C01295,21,31629.1,East,Retail,4.98,0
+C01296,27,72568.77,North,Small Business,4.05,1
+C01297,20,46982.48,North,Small Business,9.71,0
+C01298,31,67602.05,West,Small Business,6.4,1
+C01299,41,72851.06,South,Retail,8.31,1
+C01300,46,65970.72,North,Retail,8.5,1
+C01301,63,55724.54,South,Retail,1.45,0
+C01302,64,69630.38,South,Retail,5.0,1
+C01303,28,74958.99,South,Retail,3.94,1
+C01304,48,51778.68,South,Retail,2.72,0
+C01305,67,30180.36,South,Retail,2.14,0
+C01306,49,31450.19,South,Small Business,1.27,0
+C01307,27,,West,Retail,7.83,0
+C01308,64,70740.69,North,Corporate,1.45,1
+C01309,30,65075.36,East,Retail,5.54,1
+C01310,66,45111.33,West,Retail,9.54,0
+C01311,18,64334.55,South,Retail,1.58,0
+C01312,18,58507.99,West,Corporate,9.8,0
+C01313,66,40659.2,South,Corporate,8.21,0
+C01314,34,79627.76,West,Corporate,3.47,1
+C01315,34,52004.88,South,Small Business,7.43,0
+C01316,67,63174.93,West,Retail,1.28,0
+C01317,63,82549.84,East,Small Business,1.05,1
+C01318,41,55155.77,North,Corporate,6.46,0
+C01319,51,69396.52,South,Retail,6.47,1
+C01320,45,,North,Small Business,1.61,0
+C01321,44,72201.11,East,Small Business,1.88,1
+C01322,48,78335.24,West,Retail,2.7,1
+C01323,52,27232.61,South,Small Business,9.3,0
+C01324,69,64102.93,East,Retail,5.8,0
+C01325,65,79343.45,East,Small Business,4.82,1
+C01326,28,60532.84,South,Small Business,5.09,0
+C01327,39,76446.52,East,Retail,6.81,1
+C01328,52,70409.51,West,Retail,2.52,1
+C01329,53,45586.66,South,Corporate,7.35,0
+C01330,45,67955.54,North,Small Business,8.65,1
+C01331,34,49330.43,North,Retail,5.63,0
+C01332,33,67147.33,West,Small Business,7.07,1
+C01333,61,50164.69,North,Retail,3.37,0
+C01334,41,34359.01,East,Corporate,4.63,0
+C01335,36,77188.57,South,Corporate,9.88,1
+C01336,40,77147.23,South,Corporate,6.57,1
+C01337,48,,West,Small Business,1.22,0
+C01338,63,34882.96,East,Corporate,3.5,0
+C01339,60,56058.26,South,Corporate,7.21,0
+C01340,26,63317.64,South,Retail,7.22,0
+C01341,40,67066.43,East,Small Business,7.03,1
+C01342,41,10556.2,East,Retail,6.37,0
+C01343,43,30793.27,North,Retail,3.74,0
+C01344,69,46587.88,South,Small Business,3.74,0
+C01345,66,63647.02,West,Small Business,7.21,0
+C01346,45,,North,Small Business,5.99,0
+C01347,32,55485.3,East,Corporate,6.99,0
+C01348,35,50528.44,North,Small Business,2.65,0
+C01349,48,65715.7,East,Retail,8.75,1
+C01350,42,65292.63,North,Retail,9.21,1
+C01351,43,39600.46,East,Small Business,6.02,0
+C01352,40,,West,Retail,8.5,0
+C01353,48,23944.97,East,Corporate,6.44,0
+C01354,58,80886.84,North,Small Business,3.62,1
+C01355,20,39136.59,East,Corporate,5.32,0
+C01356,31,52764.88,North,Retail,1.36,0
+C01357,61,39013.82,North,Small Business,8.5,0
+C01358,56,37195.7,North,Retail,8.36,0
+C01359,23,85432.19,West,Corporate,2.26,1
+C01360,58,,East,Retail,5.02,0
+C01361,67,60398.4,East,Small Business,7.45,0
+C01362,30,59212.33,North,Corporate,4.79,0
+C01363,22,46590.86,West,Corporate,2.91,0
+C01364,24,67864.01,North,Retail,8.8,1
+C01365,25,62571.99,North,Retail,3.49,0
+C01366,55,,South,Corporate,9.52,0
+C01367,21,67659.73,North,Retail,2.67,1
+C01368,33,55081.9,North,Retail,1.2,0
+C01369,43,77714.85,West,Corporate,3.15,1
+C01370,59,66049.12,North,Small Business,3.92,1
+C01371,43,103375.54,West,Corporate,4.19,1
+C01372,20,64175.37,South,Retail,3.47,0
+C01373,26,40186.82,East,Retail,2.07,0
+C01374,64,71571.03,South,Small Business,5.11,1
+C01375,38,50983.1,South,Retail,4.54,0
+C01376,42,77488.75,North,Corporate,7.95,1
+C01377,37,70545.98,East,Small Business,9.51,1
+C01378,43,52084.72,West,Retail,6.68,0
+C01379,62,67129.15,West,Corporate,6.16,1
+C01380,49,89411.16,West,Corporate,6.97,1
+C01381,49,40140.58,North,Small Business,9.28,0
+C01382,49,45592.19,North,Corporate,7.6,0
+C01383,51,70287.87,South,Retail,7.72,1
+C01384,21,27694.04,East,Retail,5.39,0
+C01385,69,48559.03,South,Retail,7.08,0
+C01386,44,80794.62,North,Retail,4.45,1
+C01387,33,62482.34,North,Corporate,9.5,0
+C01388,22,86192.31,East,Corporate,9.98,1
+C01389,18,74080.85,South,Corporate,6.22,1
+C01390,50,41652.92,East,Corporate,8.57,0
+C01391,56,67019.26,South,Retail,2.9,1
+C01392,60,42445.79,North,Small Business,8.99,0
+C01393,49,38469.66,West,Retail,3.88,0
+C01394,34,51309.69,North,Small Business,4.94,0
+C01395,25,50532.92,East,Small Business,4.13,0
+C01396,39,64095.57,South,Retail,4.96,0
+C01397,67,62837.64,North,Retail,5.75,0
+C01398,63,45704.41,East,Retail,7.01,0
+C01399,40,62435.32,north,Retail,9.77,0
+C01400,58,44140.16,South,Small Business,3.36,0
+C01401,39,62268.47,West,Retail,3.88,0
+C01402,19,89446.29,West,Corporate,2.33,1
+C01403,39,79598.09,North,Retail,2.71,1
+C01404,30,64353.14,East,Retail,2.41,0
+C01405,24,71153.07,North,Retail,3.85,1
+C01406,23,67380.1,north,Small Business,6.79,1
+C01407,19,55546.91,north,Retail,2.57,0
+C01408,64,77625.35,South,Small Business,9.88,1
+C01409,53,83074.96,North,Retail,1.66,1
+C01410,40,67207.78,West,Small Business,2.55,1
+C01411,53,54520.79,North,Corporate,7.91,0
+C01412,28,95819.52,East,Retail,6.59,1
+C01413,57,54880.35,West,Small Business,9.42,0
+C01414,58,68018.15,East,Small Business,8.6,1
+C01415,33,40824.71,North,Retail,7.76,0
+C01416,44,46568.58,East,Corporate,7.25,0
+C01417,56,60825.64,West,Corporate,5.84,0
+C01418,48,52854.03,North,Retail,3.94,0
+C01419,63,48513.82,North,Small Business,3.01,0
+C01420,43,58583.73,South,Retail,6.76,0
+C01421,68,71180.41,West,Corporate,6.1,1
+C01422,19,61402.85,West,Corporate,1.87,0
+C01423,28,55067.38,West,Corporate,2.27,0
+C01424,25,87435.91,North,Corporate,4.07,1
+C01425,48,70593.46,East,Small Business,6.99,1
+C01426,31,63419.87,West,Retail,2.2,0
+C01427,48,54828.34,North,Corporate,2.54,0
+C01428,61,31920.44,North,Corporate,9.29,0
+C01429,53,67208.8,North,Small Business,4.83,1
+C01430,50,46905.17,South,Retail,7.03,0
+C01431,42,66933.94,West,Retail,4.52,1
+C01432,24,41511.36,North,Corporate,3.54,0
+C01433,68,64529.41,South,Corporate,7.38,0
+C01434,18,51788.89,North,Retail,4.01,0
+C01435,27,76348.57,East,Retail,5.66,1
+C01436,19,51432.24,South,Retail,6.75,0
+C01437,64,59751.47,East,Corporate,9.32,0
+C01438,38,70249.87,North,Small Business,5.94,1
+C01439,50,88382.88,West,Retail,1.01,1
+C01440,23,46744.21,South,Small Business,7.13,0
+C01441,40,49239.12,North,Small Business,7.48,0
+C01442,47,54831.2,South,Small Business,1.19,0
+C01443,56,37763.79,North,Small Business,3.28,0
+C01444,50,54360.96,East,Retail,1.63,0
+C01445,49,60828.91,East,Corporate,6.01,0
+C01446,52,69166.31,South,Small Business,2.66,1
+C01447,61,46740.02,West,Corporate,8.32,0
+C01448,55,61987.46,north,Small Business,6.96,0
+C01449,20,83871.01,north,Corporate,8.82,1
+C01450,52,73150.71,South,Retail,1.61,1
+C01451,19,73437.54,West,Small Business,8.8,1
+C01452,35,67072.28,East,Retail,1.12,1
+C01453,47,,West,Small Business,5.46,0
+C01454,19,71179.17,South,Small Business,3.08,1
+C01455,58,56592.66,East,Corporate,1.08,0
+C01456,61,74361.13,North,Corporate,4.37,1
+C01457,61,51716.08,East,Retail,1.08,0
+C01458,25,43542.85,West,Small Business,7.74,0
+C01459,57,61323.54,South,Retail,6.88,0
+C01460,69,74608.58,South,Retail,1.4,1
+C01461,55,54218.04,West,Small Business,1.94,0
+C01462,52,63511.37,north,Small Business,4.55,0
+C01463,64,100246.85,North,Retail,3.48,1
+C01464,52,49716.14,West,Retail,5.42,0
+C01465,45,37738.11,East,Corporate,3.92,0
+C01466,36,33439.1,East,Small Business,8.23,0
+C01467,61,58681.99,north,Retail,8.3,0
+C01468,45,56848.67,East,Small Business,7.02,0
+C01469,28,50528.96,North,Retail,3.2,0
+C01470,46,60787.9,South,Small Business,5.26,0
+C01471,46,86505.37,West,Small Business,2.61,1
+C01472,37,44036.33,East,Small Business,3.83,0
+C01473,20,50926.4,South,Retail,3.92,0
+C01474,32,67466.82,South,Retail,2.1,1
+C01475,30,32948.94,West,Small Business,6.07,0
+C01476,58,76396.84,North,Retail,2.31,1
+C01477,61,69409.37,South,Small Business,1.57,1
+C01478,32,76675.48,East,Corporate,9.04,1
+C01479,33,74507.67,South,Small Business,1.35,1
+C01480,24,67409.66,West,Retail,3.35,1
+C01481,56,95878.8,North,Small Business,3.47,1
+C01482,47,48489.29,North,Corporate,9.42,0
+C01483,54,41862.02,North,Retail,7.82,0
+C01484,59,60851.13,North,Small Business,8.24,0
+C01485,22,69979.07,West,Corporate,3.91,1
+C01486,46,44684.06,north,Retail,8.13,0
+C01487,46,66180.66,North,Small Business,3.83,1
+C01488,58,47993.08,South,Corporate,6.65,0
+C01489,68,73213.73,West,Retail,7.48,1
+C01490,59,58554.8,East,Retail,9.92,0
+C01491,40,79523.89,North,Corporate,7.24,1
+C01492,44,49628.82,South,Retail,7.06,0
+C01493,66,41406.18,South,Small Business,3.7,0
+C01494,23,69117.61,East,Corporate,5.11,1
+C01495,38,50100.25,West,Corporate,4.69,0
+C01496,69,48372.49,East,Corporate,2.92,0
+C01497,37,62082.48,South,Small Business,4.18,0
+C01498,35,36788.67,East,Corporate,8.15,0
+C01499,42,58281.61,South,Small Business,8.31,0
+C01500,44,61261.42,north,Small Business,9.82,0
+C01501,67,71608.53,East,Small Business,5.24,1
+C01502,29,69267.55,East,Corporate,2.15,1
+C01503,42,67722.02,East,Retail,7.96,1
+C01504,68,63862.19,South,Retail,5.33,0
+C01505,45,30121.69,North,Retail,2.38,0
+C01506,19,40750.02,East,Small Business,4.0,0
+C01507,34,50018.95,East,Corporate,7.44,0
+C01508,19,48803.44,north,Small Business,8.5,0
+C01509,39,85213.86,South,Small Business,9.38,1
+C01510,40,66035.99,East,Retail,8.0,1
+C01511,67,64716.76,West,Small Business,9.56,0
+C01512,48,49836.11,South,Corporate,3.07,0
+C01513,39,40501.41,North,Corporate,2.21,0
+C01514,41,50788.22,North,Small Business,1.75,0
+C01515,18,71090.19,West,Corporate,4.48,1
+C01516,60,50891.17,West,Small Business,9.66,0
+C01517,53,72637.71,South,Corporate,3.75,1
+C01518,60,71324.38,South,Retail,5.34,1
+C01519,21,74593.67,West,Small Business,2.55,1
+C01520,42,46136.72,West,Corporate,9.9,0
+C01521,38,,North,Small Business,1.0,0
+C01522,62,47789.84,East,Corporate,8.55,0
+C01523,53,71064.39,South,Corporate,9.74,1
+C01524,22,49411.81,West,Corporate,1.57,0
+C01525,21,83035.82,East,Corporate,8.88,1
+C01526,59,73960.86,North,Small Business,1.33,1
+C01527,66,,East,Small Business,3.89,0
+C01528,42,65177.23,East,Small Business,7.05,1
+C01529,21,51741.19,South,Corporate,4.46,0
+C01530,60,67645.34,South,Small Business,9.67,1
+C01531,51,87001.2,North,Small Business,1.82,1
+C01532,48,58954.78,East,Corporate,4.93,0
+C01533,18,67580.06,West,Small Business,3.69,1
+C01534,23,67917.59,North,Retail,7.57,1
+C01535,38,49937.84,West,Retail,5.71,0
+C01536,34,42583.31,North,Retail,5.68,0
+C01537,27,49398.53,South,Retail,4.16,0
+C01538,25,65449.31,West,Retail,3.61,1
+C01539,41,87313.48,East,Small Business,9.38,1
+C01540,54,69969.58,North,Corporate,6.98,1
+C01541,63,69482.4,North,Corporate,8.87,1
+C01542,37,58625.54,East,Retail,9.08,0
+C01543,29,61940.52,north,Small Business,3.82,0
+C01544,29,24288.91,North,Corporate,9.36,0
+C01545,51,70398.26,South,Small Business,2.13,1
+C01546,39,29584.84,East,Corporate,1.04,0
+C01547,41,81108.57,North,Corporate,4.98,1
+C01548,22,56578.6,South,Corporate,2.37,0
+C01549,34,77775.29,South,Retail,5.08,1
+C01550,32,40945.37,North,Small Business,2.95,0
+C01551,54,58340.45,East,Corporate,1.1,0
+C01552,69,53021.29,West,Retail,9.96,0
+C01553,65,79028.75,West,Corporate,2.65,1
+C01554,29,67371.19,West,Small Business,8.35,1
+C01555,27,41651.7,West,Retail,7.26,0
+C01556,31,81369.42,East,Small Business,2.2,1
+C01557,46,85385.2,East,Small Business,2.27,1
+C01558,62,62164.9,North,Corporate,4.02,0
+C01559,26,68085.8,North,Retail,1.16,1
+C01560,30,68453.96,West,Small Business,5.02,1
+C01561,37,53263.39,North,Retail,7.94,0
+C01562,29,63033.39,South,Small Business,9.61,0
+C01563,19,88827.4,South,Small Business,2.12,1
+C01564,18,16699.16,West,Corporate,2.61,0
+C01565,36,71165.37,East,Corporate,9.87,1
+C01566,43,69821.95,North,Corporate,6.45,1
+C01567,40,49466.17,South,Small Business,5.45,0
+C01568,56,57035.28,North,Corporate,4.07,0
+C01569,26,49271.69,East,Retail,2.13,0
+C01570,61,58550.56,North,Small Business,2.0,0
+C01571,23,44566.45,South,Corporate,4.59,0
+C01572,21,57050.65,West,Small Business,4.02,0
+C01573,38,68735.65,West,Retail,2.62,1
+C01574,43,67743.97,North,Retail,7.78,1
+C01575,64,69271.32,South,Retail,8.47,1
+C01576,60,65762.93,West,Retail,5.41,1
+C01577,34,50872.59,East,Retail,5.78,0
+C01578,23,44881.98,East,Retail,10.0,0
+C01579,41,54522.26,South,Retail,5.65,0
+C01580,51,52451.35,West,Corporate,9.71,0
+C01581,34,46799.82,North,Retail,4.93,0
+C01582,47,64037.71,North,Small Business,5.84,0
+C01583,67,42881.46,East,Small Business,2.45,0
+C01584,68,54183.57,South,Retail,2.54,0
+C01585,68,88339.84,West,Retail,6.36,1
+C01586,68,70348.46,South,Small Business,7.9,1
+C01587,41,70226.15,South,Small Business,3.48,1
+C01588,65,74437.54,East,Retail,5.49,1
+C01589,59,62620.41,South,Small Business,8.49,0
+C01590,23,62648.41,East,Retail,3.17,0
+C01591,40,60063.93,West,Small Business,9.97,0
+C01592,52,58632.12,East,Small Business,2.2,0
+C01593,69,54986.57,East,Retail,2.35,0
+C01594,22,70691.4,West,Corporate,6.67,1
+C01595,43,49408.07,North,Retail,3.78,0
+C01596,18,54726.95,North,Small Business,7.41,0
+C01597,25,59686.96,West,Corporate,2.73,0
+C01598,53,33843.9,West,Small Business,6.77,0
+C01599,64,61581.32,North,Retail,5.89,0
+C01600,59,57262.21,North,Corporate,3.35,0
+C01601,31,69884.03,West,Retail,7.25,1
+C01602,30,76272.42,North,Small Business,6.79,1
+C01603,52,,North,Small Business,7.17,0
+C01604,57,67097.71,North,Corporate,8.23,1
+C01605,47,55462.28,East,Small Business,1.14,0
+C01606,50,50530.36,West,Corporate,1.5,0
+C01607,37,61598.02,north,Corporate,1.77,0
+C01608,50,58591.88,South,Retail,2.4,0
+C01609,46,74040.84,East,Retail,1.16,1
+C01610,29,71654.05,West,Retail,2.22,1
+C01611,57,45459.09,West,Retail,2.25,0
+C01612,18,41492.05,North,Small Business,4.82,0
+C01613,32,70337.71,South,Retail,7.22,1
+C01614,23,62632.26,North,Retail,6.37,0
+C01615,39,58120.89,East,Corporate,1.44,0
+C01616,61,75063.63,West,Retail,9.6,1
+C01617,35,,North,Small Business,5.4,0
+C01618,38,40268.73,North,Corporate,1.97,0
+C01619,59,59309.08,West,Retail,7.12,0
+C01620,57,54096.81,North,Small Business,1.85,0
+C01621,52,81514.65,North,Corporate,3.92,1
+C01622,31,64271.32,West,Retail,5.24,0
+C01623,29,75586.65,South,Corporate,8.73,1
+C01624,57,67951.4,East,Corporate,8.34,1
+C01625,32,39273.45,West,Small Business,9.64,0
+C01626,60,36592.53,South,Retail,4.72,0
+C01627,31,60302.82,South,Small Business,3.59,0
+C01628,40,62368.36,North,Retail,2.53,0
+C01629,26,72175.58,East,Small Business,5.88,1
+C01630,59,64978.78,West,Retail,3.83,0
+C01631,58,58883.08,South,Small Business,3.42,0
+C01632,20,69026.06,South,Retail,3.41,1
+C01633,35,40834.63,West,Corporate,2.43,0
+C01634,20,74820.43,North,Small Business,5.17,1
+C01635,40,70047.88,East,Small Business,3.79,1
+C01636,45,69319.62,East,Corporate,4.63,1
+C01637,48,41365.35,East,Corporate,5.47,0
+C01638,43,34487.94,East,Corporate,2.39,0
+C01639,61,94546.57,East,Retail,5.39,1
+C01640,27,56752.27,West,Retail,4.76,0
+C01641,18,73222.87,South,Corporate,9.62,1
+C01642,44,62351.2,North,Small Business,6.8,0
+C01643,18,64094.87,East,Small Business,6.73,0
+C01644,51,77129.84,West,Retail,4.11,1
+C01645,43,74646.47,East,Corporate,2.99,1
+C01646,50,43017.76,South,Retail,3.6,0
+C01647,60,69612.25,East,Small Business,8.98,1
+C01648,43,61197.76,East,Retail,4.76,0
+C01649,21,63937.92,South,Retail,9.34,0
+C01650,18,34434.5,West,Corporate,2.92,0
+C01651,28,44884.77,North,Retail,5.31,0
+C01652,69,59982.43,East,Corporate,2.4,0
+C01653,62,66927.29,East,Small Business,9.09,1
+C01654,68,59782.61,West,Corporate,6.03,0
+C01655,55,67215.09,South,Corporate,1.57,1
+C01656,43,44595.22,South,Small Business,5.48,0
+C01657,19,,North,Small Business,2.29,0
+C01658,37,59878.46,North,Retail,9.88,0
+C01659,65,35581.53,West,Small Business,3.84,0
+C01660,39,75904.33,East,Retail,6.46,1
+C01661,50,88066.12,West,Corporate,1.11,1
+C01662,27,47236.74,South,Retail,4.39,0
+C01663,24,48106.03,East,Retail,9.35,0
+C01664,27,96914.94,South,Corporate,3.14,1
+C01665,39,65696.41,West,Small Business,7.07,1
+C01666,60,63482.71,West,Retail,8.25,0
+C01667,51,47612.51,South,Small Business,8.61,0
+C01668,50,87695.94,West,Retail,3.33,1
+C01669,65,30240.05,North,Corporate,2.98,0
+C01670,50,59317.47,South,Small Business,4.63,0
+C01671,69,69427.77,East,Retail,2.38,1
+C01672,27,42845.09,West,Retail,9.84,0
+C01673,45,44637.1,North,Retail,3.59,0
+C01674,52,57893.2,East,Corporate,4.89,0
+C01675,19,80448.49,North,Small Business,9.38,1
+C01676,36,69214.78,South,Retail,2.77,1
+C01677,34,53827.63,West,Small Business,2.89,0
+C01678,65,68121.66,East,Small Business,2.02,1
+C01679,47,74202.11,South,Small Business,8.24,1
+C01680,18,60825.04,North,Retail,3.35,0
+C01681,26,52076.79,East,Small Business,6.01,0
+C01682,29,49345.01,West,Small Business,7.34,0
+C01683,33,,South,Corporate,8.72,0
+C01684,43,77450.64,North,Retail,4.92,1
+C01685,64,52567.62,East,Small Business,1.79,0
+C01686,49,9786.74,South,Retail,9.68,0
+C01687,49,66485.29,West,Corporate,5.5,1
+C01688,35,49242.27,North,Corporate,5.29,0
+C01689,36,28112.48,East,Corporate,5.97,0
+C01690,25,58549.14,West,Corporate,2.97,0
+C01691,58,53555.48,East,Corporate,4.12,0
+C01692,50,40483.36,North,Retail,7.83,0
+C01693,24,32422.22,North,Corporate,3.71,0
+C01694,41,73471.76,West,Small Business,8.91,1
+C01695,27,32750.47,north,Corporate,8.58,0
+C01696,68,40188.09,West,Small Business,1.07,0
+C01697,35,100003.58,South,Retail,1.44,1
+C01698,69,,North,Corporate,6.04,0
+C01699,42,,South,Retail,6.87,0
+C01700,27,39610.14,North,Retail,5.23,0
+C01701,34,57194.5,South,Small Business,4.78,0
+C01702,45,89320.67,South,Retail,5.09,1
+C01703,43,64814.96,South,Small Business,7.26,0
+C01704,25,75033.54,East,Retail,7.23,1
+C01705,35,55846.66,East,Small Business,2.93,0
+C01706,66,49924.19,North,Corporate,9.45,0
+C01707,50,74929.36,South,Corporate,1.55,1
+C01708,42,51326.7,East,Corporate,8.49,0
+C01709,48,53021.36,West,Retail,5.53,0
+C01710,25,72061.57,South,Retail,1.68,1
+C01711,29,70721.18,East,Corporate,6.46,1
+C01712,31,56494.14,South,Retail,6.66,0
+C01713,58,56555.23,East,Corporate,8.25,0
+C01714,57,43117.82,South,Small Business,2.3,0
+C01715,49,82389.9,West,Retail,1.34,1
+C01716,54,69897.42,North,Retail,2.42,1
+C01717,66,53892.16,East,Retail,3.05,0
+C01718,51,,South,Small Business,2.85,0
+C01719,67,49540.74,North,Retail,3.82,0
+C01720,32,63644.35,West,Retail,8.77,0
+C01721,39,50923.16,East,Corporate,8.43,0
+C01722,30,72037.89,West,Corporate,6.19,1
+C01723,33,42540.36,South,Small Business,7.96,0
+C01724,21,54631.21,South,Corporate,6.06,0
+C01725,67,77107.41,East,Small Business,6.75,1
+C01726,60,,South,Retail,6.01,0
+C01727,66,83040.92,South,Corporate,1.6,1
+C01728,66,68963.07,West,Retail,6.47,1
+C01729,47,48848.66,West,Corporate,7.19,0
+C01730,25,52111.77,West,Retail,7.79,0
+C01731,42,56311.41,East,Small Business,4.38,0
+C01732,61,82742.04,West,Corporate,5.61,1
+C01733,52,48309.37,north,Small Business,6.62,0
+C01734,29,50221.67,North,Retail,8.12,0
+C01735,57,60795.89,North,Retail,4.92,0
+C01736,51,72979.35,South,Retail,5.79,1
+C01737,37,90574.93,North,Retail,1.81,1
+C01738,23,52000.49,East,Corporate,8.32,0
+C01739,63,75282.21,East,Small Business,2.02,1
+C01740,21,42759.35,West,Small Business,5.66,0
+C01741,51,45310.5,East,Retail,1.37,0
+C01742,69,,South,Corporate,4.28,0
+C01743,26,60268.96,South,Corporate,8.62,0
+C01744,30,53746.84,West,Corporate,9.86,0
+C01745,47,55528.04,East,Corporate,4.58,0
+C01746,47,35213.81,West,Corporate,5.65,0
+C01747,27,49834.27,South,Corporate,9.97,0
+C01748,32,54967.58,North,Retail,8.73,0
+C01749,55,44787.39,East,Small Business,9.5,0
+C01750,41,75716.41,West,Small Business,4.53,1
+C01751,33,66367.41,South,Retail,9.37,1
+C01752,26,53685.58,East,Corporate,3.4,0
+C01753,46,68844.59,West,Small Business,7.47,1
+C01754,29,20222.58,East,Small Business,7.5,0
+C01755,30,54217.6,South,Small Business,7.79,0
+C01756,62,28929.34,North,Retail,4.59,0
+C01757,22,54253.24,North,Corporate,6.41,0
+C01758,57,58504.12,East,Retail,8.85,0
+C01759,40,83326.73,South,Small Business,3.92,1
+C01760,59,61689.38,East,Corporate,4.16,0
+C01761,41,64716.67,North,Retail,7.46,0
+C01762,67,54615.62,North,Small Business,3.15,0
+C01763,65,55752.72,South,Small Business,6.8,0
+C01764,61,29624.4,East,Corporate,4.58,0
+C01765,47,71211.67,North,Corporate,9.66,1
+C01766,27,64468.14,West,Small Business,7.2,0
+C01767,37,63450.04,West,Small Business,7.11,0
+C01768,27,35441.28,South,Retail,8.16,0
+C01769,67,51513.7,West,Corporate,2.79,0
+C01770,22,77763.8,South,Corporate,2.53,1
+C01771,55,33446.34,North,Retail,4.68,0
+C01772,19,43695.37,East,Retail,2.67,0
+C01773,51,59819.35,North,Small Business,6.91,0
+C01774,64,43188.49,North,Retail,6.94,0
+C01775,54,45654.76,South,Small Business,4.0,0
+C01776,34,62084.38,West,Small Business,8.38,0
+C01777,34,28402.57,North,Retail,3.39,0
+C01778,63,67280.17,North,Corporate,1.68,1
+C01779,54,75208.59,East,Small Business,9.41,1
+C01780,30,93475.32,West,Small Business,4.86,1
+C01781,48,54068.3,West,Corporate,5.14,0
+C01782,68,53809.81,North,Retail,3.8,0
+C01783,18,66550.99,East,Corporate,9.64,1
+C01784,20,66018.11,South,Retail,4.72,1
+C01785,32,91577.42,West,Corporate,9.4,1
+C01786,63,41852.82,South,Small Business,7.18,0
+C01787,36,39860.3,South,Retail,8.17,0
+C01788,52,50287.47,East,Small Business,3.96,0
+C01789,41,36011.03,South,Retail,6.71,0
+C01790,59,55394.69,East,Retail,3.62,0
+C01791,53,73574.43,West,Small Business,7.63,1
+C01792,59,56612.9,East,Small Business,7.82,0
+C01793,40,85298.94,East,Corporate,6.63,1
+C01794,49,55047.45,West,Small Business,7.21,0
+C01795,65,42896.85,South,Corporate,5.03,0
+C01796,63,60639.78,North,Retail,5.81,0
+C01797,44,61833.65,East,Small Business,3.74,0
+C01798,64,53715.55,South,Small Business,7.82,0
+C01799,55,67432.48,South,Small Business,7.95,1
+C01800,20,51050.95,South,Small Business,2.61,0
+C01801,34,59371.8,North,Retail,2.31,0
+C01802,31,58595.07,South,Corporate,7.1,0
+C01803,24,43231.09,North,Retail,9.79,0
+C01804,65,83087.96,West,Retail,1.21,1
+C01805,23,60499.29,North,Corporate,1.79,0
+C01806,27,74674.41,North,Retail,6.5,1
+C01807,61,93653.88,South,Retail,9.72,1
+C01808,35,51314.79,North,Retail,5.0,0
+C01809,22,63627.03,West,Retail,3.39,0
+C01810,48,64521.11,North,Small Business,4.07,0
+C01811,54,68195.99,South,Corporate,2.48,1
+C01812,60,50110.08,West,Retail,4.15,0
+C01813,28,73411.16,West,Retail,5.44,1
+C01814,34,61825.1,West,Small Business,4.2,0
+C01815,69,64592.02,South,Retail,4.86,0
+C01816,44,56534.11,South,Retail,9.8,0
+C01817,68,50743.83,West,Small Business,7.26,0
+C01818,65,43347.17,North,Small Business,5.77,0
+C01819,54,68433.59,North,Corporate,3.8,1
+C01820,63,41646.49,East,Retail,8.96,0
+C01821,26,65616.62,West,Small Business,2.01,1
+C01822,43,73518.1,West,Small Business,8.4,1
+C01823,43,55258.76,West,Corporate,7.18,0
+C01824,44,64715.08,East,Small Business,5.92,0
+C01825,38,,East,Corporate,5.78,0
+C01826,31,,North,Corporate,6.23,0
+C01827,65,74305.35,West,Retail,8.0,1
+C01828,32,65231.12,South,Small Business,6.89,1
+C01829,44,54367.5,North,Small Business,3.71,0
+C01830,56,70491.96,North,Small Business,5.81,1
+C01831,69,62504.51,North,Corporate,4.05,0
+C01832,38,63035.86,North,Corporate,9.99,0
+C01833,40,63724.85,East,Retail,7.88,0
+C01834,66,48701.34,West,Small Business,1.2,0
+C01835,59,65654.16,East,Retail,3.81,1
+C01836,66,54707.95,South,Corporate,3.09,0
+C01837,38,61927.21,West,Retail,7.32,0
+C01838,37,51110.34,North,Retail,1.99,0
+C01839,46,64177.39,South,Corporate,5.75,0
+C01840,62,71716.5,East,Retail,2.92,1
+C01841,51,33290.61,South,Retail,7.99,0
+C01842,38,82541.01,West,Corporate,1.54,1
+C01843,22,53129.62,North,Retail,3.62,0
+C01844,34,67130.02,West,Retail,6.18,1
+C01845,37,47682.6,South,Small Business,3.14,0
+C01846,40,68062.76,South,Retail,1.4,1
+C01847,58,43819.67,South,Retail,5.04,0
+C01848,57,62774.32,South,Corporate,4.94,0
+C01849,27,74222.14,North,Retail,4.08,1
+C01850,59,55410.68,South,Retail,5.03,0
+C01851,21,80482.84,North,Corporate,9.33,1
+C01852,21,,North,Retail,8.52,0
+C01853,33,88779.1,South,Retail,2.86,1
+C01854,55,54701.04,East,Retail,9.81,0
+C01855,68,56942.48,South,Small Business,7.04,0
+C01856,45,49785.45,north,Retail,8.24,0
+C01857,52,94057.42,West,Small Business,4.14,1
+C01858,23,60807.47,West,Small Business,6.15,0
+C01859,66,18392.78,East,Corporate,2.93,0
+C01860,54,57305.7,East,Corporate,9.55,0
+C01861,63,57226.31,South,Small Business,1.8,0
+C01862,67,69751.33,North,Corporate,6.29,1
+C01863,61,86172.92,East,Corporate,7.28,1
+C01864,34,96072.56,North,Small Business,3.19,1
+C01865,46,63576.98,South,Corporate,5.42,0
+C01866,64,86773.24,East,Small Business,3.56,1
+C01867,43,74663.18,West,Corporate,9.9,1
+C01868,51,58524.95,East,Corporate,9.4,0
+C01869,62,49215.69,north,Small Business,6.44,0
+C01870,31,49281.94,East,Retail,1.3,0
+C01871,20,74163.13,South,Corporate,1.4,1
+C01872,22,49634.79,East,Small Business,1.3,0
+C01873,59,44929.24,South,Corporate,9.39,0
+C01874,22,78966.24,North,Retail,1.96,1
+C01875,47,82388.42,South,Small Business,8.55,1
+C01876,66,60558.66,East,Retail,6.95,0
+C01877,44,77312.04,South,Retail,8.42,1
+C01878,67,,North,Small Business,2.4,0
+C01879,18,57895.75,South,Corporate,7.46,0
+C01880,34,52122.62,north,Corporate,2.41,0
+C01881,38,34365.36,East,Retail,2.38,0
+C01882,41,45103.0,East,Corporate,5.1,0
+C01883,41,60773.69,West,Corporate,7.65,0
+C01884,34,82045.21,South,Retail,2.38,1
+C01885,47,27706.3,West,Small Business,4.59,0
+C01886,26,59538.2,West,Small Business,8.09,0
+C01887,51,26425.67,East,Corporate,1.2,0
+C01888,69,57683.37,South,Small Business,7.64,0
+C01889,66,24080.22,north,Small Business,9.75,0
+C01890,51,47828.16,North,Retail,7.19,0
+C01891,55,35325.13,East,Retail,7.67,0
+C01892,20,51420.79,north,Small Business,8.23,0
+C01893,65,43726.82,North,Corporate,1.95,0
+C01894,28,54546.57,North,Small Business,3.48,0
+C01895,22,54368.89,West,Retail,7.01,0
+C01896,19,59267.55,West,Small Business,4.39,0
+C01897,38,77839.4,North,Small Business,3.86,1
+C01898,54,55518.45,East,Retail,2.46,0
+C01899,63,88532.39,West,Corporate,4.36,1
+C01900,56,56931.0,South,Small Business,8.36,0
+C01901,38,74916.0,East,Retail,6.4,1
+C01902,66,55987.28,South,Corporate,1.43,0
+C01903,44,32204.4,East,Small Business,5.64,0
+C01904,36,80442.82,North,Small Business,2.44,1
+C01905,38,43666.95,West,Corporate,6.28,0
+C01906,37,56589.69,South,Small Business,5.57,0
+C01907,34,,East,Small Business,1.09,0
+C01908,41,44700.94,North,Small Business,4.95,0
+C01909,30,76439.15,South,Small Business,9.1,1
+C01910,21,48867.95,West,Small Business,5.79,0
+C01911,57,51021.19,West,Small Business,9.2,0
+C01912,31,51232.72,South,Corporate,9.47,0
+C01913,63,71246.18,South,Corporate,8.74,1
+C01914,55,29776.48,West,Corporate,5.33,0
+C01915,54,62952.41,West,Corporate,2.19,0
+C01916,27,50249.19,South,Retail,3.35,0
+C01917,22,51588.08,West,Small Business,7.73,0
+C01918,61,52079.08,West,Corporate,8.55,0
+C01919,36,84117.82,North,Retail,3.81,1
+C01920,25,73537.99,South,Small Business,7.16,1
+C01921,33,41286.37,South,Small Business,6.78,0
+C01922,58,79773.05,East,Retail,6.83,1
+C01923,19,83638.14,West,Corporate,3.43,1
+C01924,27,59283.01,South,Retail,1.63,0
+C01925,26,71300.77,East,Retail,9.74,1
+C01926,58,62006.84,East,Corporate,4.2,0
+C01927,25,79487.25,West,Small Business,2.62,1
+C01928,67,70013.22,North,Small Business,3.44,1
+C01929,36,79235.18,South,Small Business,1.31,1
+C01930,53,104596.13,North,Retail,4.54,1
+C01931,37,61033.4,West,Retail,1.8,0
+C01932,44,70682.85,West,Retail,1.18,1
+C01933,26,,West,Retail,5.39,0
+C01934,37,81997.39,South,Retail,9.41,1
+C01935,22,70641.16,South,Retail,2.8,1
+C01936,21,57891.7,South,Corporate,3.75,0
+C01937,42,70215.59,South,Retail,9.88,1
+C01938,60,72391.65,North,Corporate,1.29,1
+C01939,49,71954.49,East,Corporate,4.28,1
+C01940,53,84498.44,East,Retail,7.76,1
+C01941,33,62883.34,North,Retail,6.95,0
+C01942,32,74717.83,East,Retail,6.43,1
+C01943,39,55643.38,South,Small Business,8.09,0
+C01944,63,66662.18,West,Corporate,7.39,1
+C01945,29,68686.28,North,Small Business,6.32,1
+C01946,67,67990.96,West,Small Business,9.14,1
+C01947,43,61592.74,East,Small Business,5.33,0
+C01948,31,50432.87,South,Small Business,3.99,0
+C01949,23,34799.93,West,Retail,6.99,0
+C01950,43,41185.13,South,Small Business,1.05,0
+C01951,31,56852.37,North,Small Business,3.57,0
+C01952,35,58884.92,North,Small Business,6.22,0
+C01953,39,48060.44,North,Corporate,8.01,0
+C01954,41,62878.34,South,Corporate,4.81,0
+C01955,51,67571.72,West,Small Business,7.06,1
+C01956,43,61021.81,East,Small Business,2.66,0
+C01957,40,50501.34,West,Corporate,8.22,0
+C01958,35,50980.59,West,Retail,7.46,0
+C01959,26,67061.86,North,Retail,4.36,1
+C01960,68,54545.71,West,Retail,9.37,0
+C01961,49,76289.74,South,Corporate,1.27,1
+C01962,40,54875.3,North,Corporate,7.79,0
+C01963,47,70552.38,South,Retail,4.3,1
+C01964,32,58832.68,South,Retail,8.83,0
+C01965,57,93548.29,East,Small Business,6.21,1
+C01966,51,65359.0,East,Retail,8.52,1
+C01967,48,,East,Corporate,1.03,0
+C01968,40,33008.52,East,Corporate,5.26,0
+C01969,62,44514.04,West,Retail,3.6,0
+C01970,32,69109.07,West,Retail,2.21,1
+C01971,51,17249.55,East,Corporate,7.05,0
+C01972,64,,South,Corporate,2.5,0
+C01973,37,77302.4,East,Retail,8.13,1
+C01974,36,45929.66,North,Corporate,6.14,0
+C01975,23,80101.26,South,Small Business,2.6,1
+C01976,63,48361.67,North,Corporate,1.6,0
+C01977,60,69810.36,South,Small Business,4.51,1
+C01978,39,67154.08,East,Small Business,6.71,1
+C01979,21,87080.16,South,Small Business,9.58,1
+C01980,65,73036.26,East,Small Business,3.64,1
+C01981,63,62293.38,North,Corporate,5.37,0
+C01982,23,,West,Retail,8.72,0
+C01983,41,51905.22,North,Small Business,4.36,0
+C01984,53,86111.47,north,Retail,9.23,1
+C01985,44,76689.51,North,Corporate,6.79,1
+C01986,61,58933.2,West,Retail,8.97,0
+C01987,21,56073.2,South,Small Business,6.62,0
+C01988,55,98043.47,North,Retail,9.69,1
+C01989,27,49663.32,North,Retail,9.04,0
+C01990,44,67015.35,East,Corporate,3.43,1
+C01991,66,61034.13,West,Retail,9.63,0
+C01992,36,64229.8,East,Retail,3.62,0
+C01993,47,,North,Retail,3.02,0
+C01994,43,76640.45,East,Small Business,6.57,1
+C01995,25,56477.45,East,Retail,8.29,0
+C01996,37,59018.6,East,Retail,5.19,0
+C01997,37,26721.45,North,Corporate,7.98,0
+C01998,51,96281.67,East,Retail,5.83,1
+C01999,35,61329.1,West,Small Business,2.33,0
+C02000,30,52615.22,West,Corporate,8.9,0
+C00377,24,41910.0,West,Corporate,5.1,0
+C01372,20,64175.37,South,Retail,3.47,0
+C01080,52,44970.65,North,Small Business,6.72,0
+C00407,62,,South,Corporate,6.8,0
+C00438,63,29663.08,East,Corporate,3.5,0
